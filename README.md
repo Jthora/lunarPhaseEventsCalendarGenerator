@@ -1,5 +1,5 @@
 # Lunar Phase Events Calendar Generator
-A script that produces a .ics file of Lunar Phases for any particular year (defaults to current year)
+A script that produces an .ics file of Lunar Phases for any particular year (defaults to current year)
 
 ![Lunar Phase Events](./lunarPhaseEventsCalendarGenerator-small.png)
 
