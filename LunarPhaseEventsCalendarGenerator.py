@@ -75,18 +75,26 @@ def create_ics_file(phases, year, timezone):
             localized_datetime = phase_datetime.astimezone(pytz.timezone(timezone))
 
             # Determine cultural moon name for Full Moon
+            cultural_title = ""
+            if "Full Moon" in phase_name:
+                month = localized_datetime.month
+                cultural_title = CULTURAL_MOON_NAMES.get(month, "")
+                if cultural_title:
+                    cultural_title = f" ({cultural_title})"
+
+            # Determine cultural moon name for Full Moon
             cultural_name = ""
             if "Full Moon" in phase_name:
                 month = localized_datetime.month
                 cultural_name = CULTURAL_MOON_NAMES.get(month, "")
                 if cultural_name:
-                    cultural_name = f" ({cultural_name})"
+                    cultural_name = f"{cultural_name}"
 
             # Enhanced descriptions
             if "Full Moon" in phase_name:
                 description = (
                     "The Full Moon occurs when the Moon is fully illuminated by the Sun, marking the midpoint of the lunar cycle.\n"
-                    + "This Full Moon is traditionally called the '" + cultural_name.strip("()") + "' for the month of "
+                    + "This Full Moon is traditionally called the '" + cultural_name + "' for the month of "
                     + localized_datetime.strftime('%B') + ".\n"
                     + "Cultural Significance: Known for its role in agricultural and seasonal cycles.\n"
                     + "Astrological Significance: A time of heightened emotions, clarity, and reflection."
@@ -120,7 +128,7 @@ def create_ics_file(phases, year, timezone):
 
             # Create the event
             event = Event()
-            event.name = phase_name + cultural_name
+            event.name = phase_name + cultural_title
             event.begin = localized_datetime.strftime('%Y-%m-%dT%H:%M:%S%z')
             event.description = description
             calendar.events.add(event)
@@ -137,18 +145,19 @@ def main():
     """
     Main function to handle lunar phase generation.
     """
-    parser = argparse.ArgumentParser(description="Generate a lunar phase calendar in ICS format.")
-    parser.add_argument("--timezone", type=str, default="UTC", help="Specify the timezone for the events (default: UTC).")
+    parser = argparse.ArgumentParser(description="Generate lunar phase calendar ICS files.")
+    parser.add_argument("--start_year", type=int, default=2024, help="Start year for calendar generation (default: 2024).")
+    parser.add_argument("--end_year", type=int, default=2048, help="End year for calendar generation (default: 2048).")
     args = parser.parse_args()
 
     eph = load_file("de440s.bsp")
     timescale = load.timescale()
 
-    for year in range(2024, 2049):
+    for year in range(args.start_year, args.end_year + 1):
         print(f"Generating lunar phase calendar for year {year}...")
         phases = calculate_lunar_phases(year, eph, timescale)
         if phases:
-            create_ics_file(phases, year, args.timezone)
+            create_ics_file(phases, year, "UTC")
         else:
             print(f"Failed to generate calendar for year {year}. Check {LOG_FILE} for details.")
 
