@@ -108,9 +108,9 @@ pip install -r requirements.txt
 ---
 
 ## Output
-- The ICS file is saved in the `output` directory.
-- Example: `output/lunar_phases_2025.ics`.
-- Error logs are saved as `output/lunar_phase_generator_error.log`.
+- The ICS file is saved in the `lunar_phase_generator_output` directory.
+- Example: `lunar_phase_generator_output/lunar_phases_2025.ics`.
+- Error logs are saved as `lunar_phase_generator_output/lunar_phase_generator_error.log`.
 
 ---
 
@@ -138,9 +138,9 @@ pip install -r requirements.txt
     ```
 
 - **ICS File Not Generated**:
-  - Check the `output/lunar_phase_generator_error.log` file for details:
+  - Check the `lunar_phase_generator_output/lunar_phase_generator_error.log` file for details:
     ```bash
-    cat output/lunar_phase_generator_error.log
+    cat lunar_phase_generator_output/lunar_phase_generator_error.log
     ```
 
 ### Advanced Debugging
