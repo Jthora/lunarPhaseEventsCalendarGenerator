@@ -1,170 +1,110 @@
+# Instructions for Using the Lunar Phase Events Calendar Generator
 
-# Instructions: Lunar Phase Events Calendar Generator
-
-## Overview
-This project provides tools to generate ICS calendar files for lunar phases (e.g., New Moon, Full Moon) for any given year or the next 25 years automatically. It includes Python scripts and Bash scripts for easy setup and automation, making it beginner-friendly.
+Follow these steps to set up and use the Lunar Phase Events Calendar Generator.
 
 ---
 
-## Contents
-1. `LunarPhaseEventsCalendarGenerator.py` - The main Python script for generating ICS files for a specified year.
-2. `setup_env.sh` - A Bash script to prepare the Python environment and install dependencies.
-3. `generate_calendars.sh` - A Bash script to generate ICS files for the next 25 years.
-4. `run.sh` - A master Bash script that runs everything in sequence.
+## **1. Prerequisites**
+Ensure you have the following installed:
+- Python 3.10+ with pip
+- Git (for cloning the repository)
 
 ---
 
-## Prerequisites
+## **2. Setup**
+1. Clone the repository:
+   ```bash
+   git clone <repository_url>
+   cd lunar_phase_scripts
+   ```
 
-### Requirements
-- **Python 3.7 or later**:
-  - Check your Python version:
-    ```bash
-    python3 --version
-    ```
-  - If not installed:
-    - **macOS**: Install with Homebrew:
-      ```bash
-      brew install python
-      ```
-    - **Linux**:
-      ```bash
-      sudo apt update
-      sudo apt install python3 python3-pip
-      ```
-    - **Windows**: Download Python 3 from [python.org](https://www.python.org/).
-- **Bash Shell**:
-  - Required to run the Bash scripts.
-  - Included by default on Linux and macOS.
-  - On Windows, use WSL (Windows Subsystem for Linux) or Git Bash.
-
----
-
-## How to Use
-
-### Step 1: Download the Repository
-Clone the repository or download the ZIP file containing all the scripts.
-
-```bash
-git clone https://github.com/yourusername/LunarPhaseEventsCalendarGenerator.git
-cd LunarPhaseEventsCalendarGenerator
-```
-
-Alternatively, extract the ZIP file into a folder and navigate to it.
-
----
-
-### Step 2: Run the Master Script
-To automate the entire process (setup and generation):
-```bash
-./run.sh
-```
-
-The `run.sh` script will:
-1. Prepare the Python environment by running `setup_env.sh`.
-2. Generate ICS files for the next 25 years by running `generate_calendars.sh`.
-
----
-
-### Step 3: Check the Output
-- Generated `.ics` files will be in the `output` directory.
-- Logs for errors or additional information will be in `output/logs.txt`.
-
----
-
-## Manual Usage
-
-### Setting Up the Environment
-If you want to prepare the environment manually:
-1. Run the `setup_env.sh` script:
+2. Set up the environment:
    ```bash
    ./setup_env.sh
    ```
 
-2. Activate the virtual environment:
-   ```bash
-   source myenv/bin/activate  # On Linux/macOS
-   myenv\Scripts\activate     # On Windows
-   ```
-
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+   - This script creates a virtual environment, installs dependencies, and downloads the required Skyfield ephemeris data (`de440s.bsp`).
 
 ---
 
-### Generating ICS Files for a Specific Year
-To generate a calendar for a specific year:
+## **3. Running the Script**
+To generate `.ics` files for 25 years:
 ```bash
-python3 LunarPhaseEventsCalendarGenerator.py --year 2025
+./run.sh --timezone "America/New_York"
+```
+
+- The `--timezone` argument is optional; default is UTC.
+- Replace `"America/New_York"` with your desired timezone (e.g., `"Europe/London"`).
+
+---
+
+## **4. Output**
+- Generated `.ics` files will be saved in the `output/` directory.
+- Each file corresponds to a year, named as `lunar_phases_<year>.ics`.
+
+---
+
+## **5. Example Calendar Entry**
+**Summary**: `🌕 Full Moon (Wolf Moon)`  
+**Description**:
+```
+The Full Moon occurs when the Moon is fully illuminated by the Sun, marking the midpoint of the lunar cycle.
+This Full Moon is traditionally called the 'Wolf Moon' for the month of January.
+Cultural Significance: Known for its role in agricultural and seasonal cycles.
+Astrological Significance: A time of heightened emotions, clarity, and reflection.
 ```
 
 ---
 
-### Automating 25 Years of Calendars
-Run the `generate_calendars.sh` script to generate ICS files for the next 25 years:
-```bash
-./generate_calendars.sh
-```
-
----
-
-## Troubleshooting
-
-### Common Issues
-1. **Command Not Found**:
-   - Ensure you’re using `python3` instead of `python`.
-   - Verify that Bash is available on your system.
-
-2. **Permission Denied**:
-   - Make scripts executable:
+## **6. Troubleshooting**
+1. **Environment Issues**:
+   - Ensure the virtual environment is activated:
      ```bash
-     chmod +x *.sh
-     ```
-   - Re-run the script with elevated privileges:
-     ```bash
-     sudo ./run.sh
+     source myenv/bin/activate
      ```
 
-3. **Python Dependencies Not Installed**:
-   - Ensure `setup_env.sh` was run successfully and the environment is activated.
-
-4. **Missing `.ics` Files**:
-   - Check the log file:
+2. **Dependency Issues**:
+   - Manually install dependencies if required:
      ```bash
-     cat output/logs.txt
+     pip install -r requirements.txt
+     ```
+
+3. **Log Files**:
+   - Check `output/logs.txt` for details about any errors.
+   - `lunar_phase_generator_error.log` contains critical error logs.
+
+4. **Ephemeris File**:
+   - Ensure the `de440s.bsp` file exists in the root directory. If not, re-run:
+     ```bash
+     ./setup_env.sh
      ```
 
 ---
 
-## Notes
-- **Re-running Scripts**:
-  - If the environment is already set up, you can skip `setup_env.sh` and directly run:
-    ```bash
-    ./generate_calendars.sh
-    ```
-
-- **Cleaning Up**:
-  - To reset and remove the virtual environment:
-    ```bash
-    rm -rf myenv
-    ```
+## **7. Cleaning Up**
+To clean up the environment:
+- Deactivate the virtual environment:
+  ```bash
+  deactivate
+  ```
+- Remove the virtual environment directory:
+  ```bash
+  rm -rf myenv
+  ```
 
 ---
 
-## Example Workflow
-1. Download the repository or extract the ZIP.
-2. Navigate to the directory:
-   ```bash
-   cd LunarPhaseEventsCalendarGenerator
-   ```
-3. Run the master script:
-   ```bash
-   ./run.sh
-   ```
-4. Check the `output` directory for generated `.ics` files.
+## **8. Customization**
+- Modify cultural moon names in the `CULTURAL_MOON_NAMES` dictionary inside `LunarPhaseEventsCalendarGenerator.py`.
+- Adjust timezone via the `--timezone` option when running `./run.sh`.
 
 ---
 
-Enjoy your lunar phase calendars! 🌑🌓🌕🌗
+## **9. Additional Resources**
+- [Skyfield Documentation](https://rhodesmill.org/skyfield/)
+- [List of Time Zones](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones)
+
+---
+
+## **10. Support**
+If you encounter issues, open an issue in the repository or contact the project maintainer.
