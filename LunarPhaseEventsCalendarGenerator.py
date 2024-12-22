@@ -39,6 +39,22 @@ CULTURAL_MOON_NAMES = {
     12: "Cold Moon"
 }
 
+# Cultural significance for Full Moons
+CULTURAL_SIGNIFICANCES = {
+    "Wolf Moon": "Often associated with howling wolves during the cold winter months.",
+    "Snow Moon": "Reflects the heavy snowfalls typically experienced in February.",
+    "Worm Moon": "Named for the reappearance of earthworms as the ground thaws in spring.",
+    "Pink Moon": "Named after pink wildflowers, signaling spring blooms.",
+    "Flower Moon": "Marks the abundance of blooming flowers in May.",
+    "Strawberry Moon": "Named for the strawberry harvest season.",
+    "Buck Moon": "Represents the time when antlers of young bucks are in full growth.",
+    "Sturgeon Moon": "Named for the large sturgeon fish caught in August.",
+    "Harvest Moon": "Associated with the time of harvesting crops in early autumn.",
+    "Hunter's Moon": "Traditionally marks the time for hunting game before winter.",
+    "Beaver Moon": "Named for the time beavers build their winter dams.",
+    "Cold Moon": "Reflects the cold, long nights of December."
+}
+
 def calculate_lunar_phases(year, eph, timescale):
     """
     Calculate exact lunar phases for a given year using Skyfield.
@@ -84,11 +100,13 @@ def create_ics_file(phases, year, timezone):
 
             # Determine cultural moon name for Full Moon
             cultural_name = ""
+            cultural_significance = CULTURAL_SIGNIFICANCES.get(cultural_name, "No cultural significance available.")
             if "Full Moon" in phase_name:
                 month = localized_datetime.month
                 cultural_name = CULTURAL_MOON_NAMES.get(month, "")
                 if cultural_name:
                     cultural_name = f"{cultural_name}"
+                    cultural_significance = CULTURAL_SIGNIFICANCES.get(cultural_name, "No cultural significance available.")
 
             # Enhanced descriptions
             if "Full Moon" in phase_name:
@@ -96,7 +114,7 @@ def create_ics_file(phases, year, timezone):
                     "The Full Moon occurs when the Moon is fully illuminated by the Sun, marking the midpoint of the lunar cycle.\n"
                     + "This Full Moon is traditionally called the '" + cultural_name + "' for the month of "
                     + localized_datetime.strftime('%B') + ".\n"
-                    + "Cultural Significance: Known for its role in agricultural and seasonal cycles.\n"
+                    + "Cultural Significance: " + cultural_significance + "\n"
                     + "Astrological Significance: A time of heightened emotions, clarity, and reflection."
                 )
             elif "New Moon" in phase_name:
