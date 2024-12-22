@@ -1,6 +1,8 @@
 # Lunar Phase Events Calendar Generator
 A script that produces a .ics file of Lunar Phases for any particular year (defaults to current year)
 
+![Lunar Phase Events](./lunarPhaseEventsCalendarGenerator-small.png)
+
 ## Description
 The **Lunar Phase Events Calendar Generator** is a Python script that creates an ICS calendar file containing lunar phases (e.g., Full Moon, New Moon) for a specified year. The script fetches data from a public API and generates events with moon emojis for visualization in popular calendar applications.
 
