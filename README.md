@@ -1,5 +1,5 @@
 # Lunar Phase Events Calendar Generator
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14545444.svg)](https://doi.org/10.5281/zenodo.14545444)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14545444.svg)](https://doi.org/10.5281/zenodo.14545444) - [Defensive Publication Declaration](https://en.wikipedia.org/wiki/Defensive_publication)
 
 ![Lunar Phase Events Calendar Generator](lunarPhaseEventsCalendarGenerator-small.png)
 
