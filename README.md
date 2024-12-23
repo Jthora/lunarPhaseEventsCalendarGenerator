@@ -31,6 +31,3 @@ This repository contains tools to generate and manage `.ics` calendar files for 
 - Required Python libraries (installed via `requirements.txt`).
 - Bash shell for executing `.sh` scripts.
 
-## License
-
-This project is open-source and licensed under the MIT License.
