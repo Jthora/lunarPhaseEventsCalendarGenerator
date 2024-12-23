@@ -8,6 +8,7 @@ ENV_DIR="myenv"
 EPHEMERIS_FILE="de440s.bsp"
 DEFAULT_START_YEAR=2024
 DEFAULT_END_YEAR=2048
+GALACTICCENTER="on"  # Default galactic center adjustment is "on"
 LOG_FILE="output/lunar_phase_generator_error.log"
 
 # Create the output directory if it doesn't exist
@@ -56,10 +57,10 @@ fi
 echo "Environment setup complete!"
 
 # Step 2: Generate lunar phase calendars
-echo "Generating lunar phase calendars for years $START_YEAR to $END_YEAR..."
+echo "Generating lunar phase calendars for years $START_YEAR to $END_YEAR with galacticCenter=$GALACTICCENTER..."
 
 # Run the Python script and capture errors
-python3 LunarPhaseEventsCalendarGenerator.py --start_year "$START_YEAR" --end_year "$END_YEAR" || handle_error "Python script failed during execution."
+python3 LunarPhaseEventsCalendarGenerator.py --start_year "$START_YEAR" --end_year "$END_YEAR" --galactic_center "$GALACTICCENTER" || handle_error "Python script failed during execution."
 
 # Check if output files were generated
 if [ "$(ls -A $OUTPUT_DIR/*.ics 2>/dev/null)" ]; then

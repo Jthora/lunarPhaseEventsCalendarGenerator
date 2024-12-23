@@ -84,7 +84,7 @@ ZODIAC_SIGN_DEGREE_RANGES = [
     ('Capricorn', 270, 300), ('Aquarius', 300, 330), ('Pisces', 330, 360)
 ]
 
-# Functions
+# Fractional Year
 def fractional_year(date_str, time_str):
     date_time = datetime.strptime(f"{date_str} {time_str}", "%b %d, %Y %H:%M")
     year = date_time.year
@@ -92,6 +92,7 @@ def fractional_year(date_str, time_str):
     day_of_year = (date_time - start_of_year).total_seconds() / 86400
     return year + (day_of_year / 365.25)
 
+# Galactic Center Sag 0º Ayanamsa Calculation
 def calculate_ayanamsa(fractional_year):
     return REFERENCE_POSITION - (fractional_year - REFERENCE_YEAR) * PRECESSION_RATE
 
@@ -99,6 +100,7 @@ def adjust_position(position, ayanamsa):
     corrected_position = position - ayanamsa
     return corrected_position % 360  # Wrap around 0-360
 
+# Zodiac Calculation
 def calculate_zodiac(longitude):
     """
     Determine the zodiac sign based on the ecliptic longitude.
@@ -109,7 +111,7 @@ def calculate_zodiac(longitude):
     zodiac_index = int((longitude % 360) / 30)
     return ZODIAC_SIGNS[zodiac_index]
 
-def calculate_lunar_phases(year, eph, timescale):
+def calculate_lunar_phases(year, eph, timescale, galacticCenter_on=True):
     """
     Calculate exact lunar phases for a given year using Skyfield.
     """
@@ -139,12 +141,15 @@ def calculate_lunar_phases(year, eph, timescale):
                 astrometric = earth.at(t).observe(moon)
                 longitude = astrometric.apparent().ecliptic_latlon()[1].degrees
 
-                # Calculate fractional year for Ayanamsa
-                fractional_year_value = t.utc_datetime().year + (t.utc_datetime().timetuple().tm_yday / 365.25)
-                ayanamsa = calculate_ayanamsa(fractional_year_value)
+                if galacticCenter_on:
+                    # Calculate fractional year for Galactic Center
+                    fractional_year_value = t.utc_datetime().year + (t.utc_datetime().timetuple().tm_yday / 365.25)
+                    galacticCenter = calculate_ayanamsa(fractional_year_value)
 
-                # Adjust longitude with Ayanamsa
-                corrected_longitude = adjust_position(longitude, ayanamsa)
+                    # Adjust longitude with Galactic Center
+                    corrected_longitude = adjust_position(longitude, galacticCenter)
+                else:
+                    corrected_longitude = longitude
 
             except NameError as e:
                 logging.error(f"NameError: {e} - Ensure ephemeris objects are initialized correctly.")
@@ -276,6 +281,7 @@ def main():
     parser = argparse.ArgumentParser(description="Generate lunar phase calendar ICS files.")
     parser.add_argument("--start_year", type=int, default=2024, help="Start year for calendar generation (default: 2024).")
     parser.add_argument("--end_year", type=int, default=2048, help="End year for calendar generation (default: 2048).")
+    parser.add_argument("--galactic_center", type=str, choices=["on", "off"], default="on", help="Toggle ayanamsa Galactic Center correction (default: on).")
     args = parser.parse_args()
 
     if args.start_year > args.end_year:
@@ -293,7 +299,8 @@ def main():
 
     for year in range(args.start_year, args.end_year + 1):
         print(f"Generating lunar phase calendar for year {year}...")
-        phases = calculate_lunar_phases(year, eph, timescale)
+        galacticCenter_on = (args.galactic_center == "on")
+        phases = calculate_lunar_phases(year, eph, timescale, galacticCenter_on)
         if phases:
             create_ics_file(phases, year, "UTC")
         else:
