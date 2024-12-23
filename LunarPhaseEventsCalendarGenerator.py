@@ -55,6 +55,60 @@ CULTURAL_SIGNIFICANCES = {
     "Cold Moon": "Reflects the cold, long nights of December."
 }
 
+# Zodiac signs, emoji, and descriptions
+ZODIAC_SIGNS = [
+    ("Aries", "♈", "Fiery, passionate, and driven."),
+    ("Taurus", "♉", "Grounded, practical, and loyal."),
+    ("Gemini", "♊", "Curious, communicative, and versatile."),
+    ("Cancer", "♋", "Emotional, nurturing, and protective."),
+    ("Leo", "♌", "Confident, creative, and bold."),
+    ("Virgo", "♍", "Detail-oriented, analytical, and helpful."),
+    ("Libra", "♎", "Charming, harmonious, and diplomatic."),
+    ("Scorpio", "♏", "Intense, transformative, and magnetic."),
+    ("Sagittarius", "♐", "Adventurous, philosophical, and optimistic."),
+    ("Capricorn", "♑", "Disciplined, ambitious, and practical."),
+    ("Aquarius", "♒", "Innovative, independent, and humanitarian."),
+    ("Pisces", "♓", "Dreamy, intuitive, and compassionate.")
+]
+
+# Constants
+REFERENCE_POSITION = 26.854  # Galactic Center position in degrees (year 2000)
+PRECESSION_RATE = 0.01397    # Degrees per year due to precession
+REFERENCE_YEAR = 2000        # Base year for Galactic Center alignment
+
+# Zodiac Signs and Degree Ranges
+ZODIAC_SIGN_DEGREE_RANGES = [
+    ('Aries', 0, 30), ('Taurus', 30, 60), ('Gemini', 60, 90),
+    ('Cancer', 90, 120), ('Leo', 120, 150), ('Virgo', 150, 180),
+    ('Libra', 180, 210), ('Scorpio', 210, 240), ('Sagittarius', 240, 270),
+    ('Capricorn', 270, 300), ('Aquarius', 300, 330), ('Pisces', 330, 360)
+]
+
+# Functions
+def fractional_year(date_str, time_str):
+    date_time = datetime.strptime(f"{date_str} {time_str}", "%b %d, %Y %H:%M")
+    year = date_time.year
+    start_of_year = datetime(year, 1, 1)
+    day_of_year = (date_time - start_of_year).total_seconds() / 86400
+    return year + (day_of_year / 365.25)
+
+def calculate_ayanamsa(fractional_year):
+    return REFERENCE_POSITION - (fractional_year - REFERENCE_YEAR) * PRECESSION_RATE
+
+def adjust_position(position, ayanamsa):
+    corrected_position = position - ayanamsa
+    return corrected_position % 360  # Wrap around 0-360
+
+def calculate_zodiac(longitude):
+    """
+    Determine the zodiac sign based on the ecliptic longitude.
+    """
+    if longitude is None or not (0 <= longitude < 360):
+        logging.error(f"Invalid longitude value: {longitude}")
+        return "Unknown", "", "No description available."
+    zodiac_index = int((longitude % 360) / 30)
+    return ZODIAC_SIGNS[zodiac_index]
+
 def calculate_lunar_phases(year, eph, timescale):
     """
     Calculate exact lunar phases for a given year using Skyfield.
@@ -65,13 +119,53 @@ def calculate_lunar_phases(year, eph, timescale):
         end_time = timescale.utc(year + 1, 1, 1)
 
         # Calculate lunar phases
-        times, phases = almanac.find_discrete(start_time, end_time, almanac.moon_phases(eph))
+        try:
+            times, phases = almanac.find_discrete(start_time, end_time, almanac.moon_phases(eph))
+            if len(times) == 0:
+                logging.warning(f"No lunar phases found for year {year}. Check ephemeris data and time range.")
+        except Exception as e:
+            logging.error(f"Error during lunar phase calculation for year {year}: {e}", exc_info=True)
+            raise RuntimeError("Lunar phase calculation failed.") from e
 
         # Map phases to their names and emojis
         events = []
+        earth = eph["earth"]
+        moon = eph["moon"] 
         for t, phase in zip(times, phases):
             phase_name = MOON_PHASES.get(phase, "Unknown Phase")
-            events.append({"datetime": t.utc_datetime(), "phase": phase_name})
+
+            # Calculate Moon's position
+            try:
+                astrometric = earth.at(t).observe(moon)
+                longitude = astrometric.apparent().ecliptic_latlon()[1].degrees
+
+                # Calculate fractional year for Ayanamsa
+                fractional_year_value = t.utc_datetime().year + (t.utc_datetime().timetuple().tm_yday / 365.25)
+                ayanamsa = calculate_ayanamsa(fractional_year_value)
+
+                # Adjust longitude with Ayanamsa
+                corrected_longitude = adjust_position(longitude, ayanamsa)
+
+            except NameError as e:
+                logging.error(f"NameError: {e} - Ensure ephemeris objects are initialized correctly.")
+                continue
+            except UnboundLocalError as e:
+                logging.error(f"UnboundLocalError: {e} - Issue with variable assignment.")
+                continue
+            try:
+                longitude = astrometric.apparent().ecliptic_latlon()[1].degrees
+                zodiac_name, zodiac_emoji, zodiac_description = calculate_zodiac(corrected_longitude)
+            except Exception as e:
+                logging.error(f"Error in zodiac calculation for longitude {longitude}: {e}", exc_info=True)
+                zodiac_name, zodiac_emoji, zodiac_description = "Unknown", "❓", "Unknown significance."
+
+            events.append({
+                "datetime": t.utc_datetime(),
+                "phase": phase_name,
+                "zodiac_name": zodiac_name,
+                "zodiac_emoji": zodiac_emoji,
+                "zodiac_description": zodiac_description
+            })
 
         return events
     except Exception as e:
@@ -88,13 +182,20 @@ def create_ics_file(phases, year, timezone):
         for phase in phases:
             phase_datetime = phase["datetime"]
             phase_name = phase["phase"]
-            localized_datetime = phase_datetime.astimezone(pytz.timezone(timezone))
+            zodiac_name = phase["zodiac_name"]
+            zodiac_emoji = phase["zodiac_emoji"]
+            zodiac_description = phase["zodiac_description"]
+            try:
+                localized_datetime = phase_datetime.astimezone(pytz.timezone(timezone))
+            except pytz.UnknownTimeZoneError:
+                logging.error(f"Invalid timezone: {timezone}")
+                localized_datetime = phase_datetime
 
             # Determine cultural moon name for Full Moon
             cultural_title = ""
             if "Full Moon" in phase_name:
                 month = localized_datetime.month
-                cultural_title = CULTURAL_MOON_NAMES.get(month, "")
+                cultural_title = CULTURAL_MOON_NAMES.get(month, "Full Moon")
                 if cultural_title:
                     cultural_title = f" ({cultural_title})"
 
@@ -116,6 +217,8 @@ def create_ics_file(phases, year, timezone):
                     + localized_datetime.strftime('%B') + ".\n"
                     + "Cultural Significance: " + cultural_significance + "\n"
                     + "Astrological Significance: A time of heightened emotions, clarity, and reflection."
+                    + "Astrological Position: The Moon is in " + zodiac_name + " " + zodiac_emoji + ".\n"
+                    + "Astrological Significance: " + zodiac_description + "\n"
                 )
             elif "New Moon" in phase_name:
                 description = (
@@ -146,14 +249,21 @@ def create_ics_file(phases, year, timezone):
 
             # Create the event
             event = Event()
-            event.name = phase_name + cultural_title
+            event.name = phase_name + cultural_title + " " + zodiac_emoji
             event.begin = localized_datetime.strftime('%Y-%m-%dT%H:%M:%S%z')
             event.description = description
             calendar.events.add(event)
 
-        output_file = os.path.join(OUTPUT_DIR, f"lunar_phases_{year}.ics")
-        with open(output_file, 'w') as f:
-            f.writelines(calendar)
+        try:
+            output_file = os.path.join(OUTPUT_DIR, f"lunar_phases_{year}.ics")
+            if not calendar.events:
+                logging.warning(f"No events generated for year {year}.")
+            with open(output_file, 'w') as f:
+                f.writelines(calendar)
+            logging.info(f"Successfully created ICS file: {output_file}")
+        except Exception as e:
+            logging.error(f"Error writing ICS file for year {year}: {e}", exc_info=True)
+            raise RuntimeError(f"Failed to write ICS file for year {year}.") from e
 
         print(f"ICS file created: {output_file}")
     except Exception as e:
@@ -168,7 +278,17 @@ def main():
     parser.add_argument("--end_year", type=int, default=2048, help="End year for calendar generation (default: 2048).")
     args = parser.parse_args()
 
-    eph = load_file("de440s.bsp")
+    if args.start_year > args.end_year:
+        logging.error("Start year cannot be greater than end year.")
+        raise ValueError("Invalid year range: Start year must be less than or equal to end year.")
+
+    try:
+        eph = load_file("de440s.bsp")
+    except FileNotFoundError:
+        logging.error("Ephemeris file 'de440s.bsp' not found.")
+        print("Ephemeris file is missing. Please ensure 'de440s.bsp' is present in the working directory.")
+        return
+
     timescale = load.timescale()
 
     for year in range(args.start_year, args.end_year + 1):
