@@ -1,5 +1,7 @@
 # Lunar Phase Events Calendar Generator
 
+![Lunar Phase Events Calendar Generator](lunarPhaseEventsCalendarGenerator-small.png)
+
 This repository contains tools to generate and manage `.ics` calendar files for lunar phase events. The generator includes options for cultural and astrological details for each lunar phase, making it useful for educational, astrological, or personal planning purposes.
 
 ## Features
@@ -29,6 +31,3 @@ This repository contains tools to generate and manage `.ics` calendar files for 
 - Required Python libraries (installed via `requirements.txt`).
 - Bash shell for executing `.sh` scripts.
 
-## License
-
-This project is open-source and licensed under the MIT License.
