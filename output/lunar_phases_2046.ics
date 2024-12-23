@@ -2,297 +2,297 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:The 🌓 1st Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
-DTSTART:20461205T075629Z
-SUMMARY:🌓 1st Quarter Moon ♒ [🜁]
-UID:23f1579e-c798-474e-b66e-344c8c6458e2@23f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Flower' for the month of May.\nCultural Significance: No cultural significance available.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Scorpio ♏ [🜄].\nAstrological Significance: Intense\, transformative\, and magnetic.\n
+DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\n\nThis Full Moon is traditionally called the 'Flower Moon' for the month of May. The Flower Moon celebrates the abundance of blooming flowers in May\, a time of lush growth and beauty. It embodies the energy of fertility\, creativity\, and the flourishing of life. Many cultures see this moon as a time to honor the earth’s generosity and participate in rituals of gratitude.\n\nSignificance: A time of culmination\, celebration\, and achieving clarity.\n\nMeaning: A time of heightened emotions\, clarity\, and reflection.\n\nZodiac: Scorpio ♏ [🜄]\nAlignment: Galactic Center\n\nDescription: Fixed Water ■ 💧\nThe Moon in Scorpio brings intense\, transformative\, and deeply emotional energy. This is a time for diving into hidden truths\, exploring passions\, and embracing change. Scorpio’s influence encourages emotional depth and resilience but may also amplify secrecy or possessiveness.
 DTSTART:20460520T031522Z
 SUMMARY:🌕 Full Moon (Flower) ♏ [🜄]
-UID:f28cbb05-734d-4d37-befc-9c5300d7193c@f28c.org
+UID:53a50112-4b1f-4458-82ef-145d32c21098@53a5.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The 🌗 3rd Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
-DTSTART:20460329T065721Z
-SUMMARY:🌗 3rd Quarter Moon ♐ (🜂)
-UID:ee773c8d-8b17-41f9-80ff-2bb75d5c2e04@ee77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Pink' for the month of April.\nCultural Significance: No cultural significance available.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Libra ♎ <🜁>.\nAstrological Significance: Charming\, harmonious\, and diplomatic.\n
+DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\n\nThis Full Moon is traditionally called the 'Pink Moon' for the month of April. The Pink Moon gets its name from the first vibrant blooms of wild pink phlox\, heralding the arrival of spring. It symbolizes renewal\, growth\, and the awakening of life after the cold winter months. This moon is often associated with hope\, beauty\, and the reemergence of color in the natural world.\n\nSignificance: A time of culmination\, celebration\, and achieving clarity.\n\nMeaning: A time of heightened emotions\, clarity\, and reflection.\n\nZodiac: Libra ♎ <🜁>\nAlignment: Galactic Center\n\nDescription: Cardinal Air ▲ 💨\nWhen the Moon is in Libra\, balance\, harmony\, and relationships take center stage. This is an ideal time for diplomacy\, collaboration\, and creating beauty in one’s environment. Libra’s airy energy fosters a desire for fairness and connection\, though it may also lead to indecisiveness.
 DTSTART:20460420T182111Z
 SUMMARY:🌕 Full Moon (Pink) ♎ <🜁>
-UID:d470e0eb-0869-467b-bda6-dba1571585f0@d470.org
+UID:762ecc6a-3f75-4fb7-a357-281fbbbeaf01@762e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The New Moon marks the beginning of the lunar cycle. The Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\nCultural Significance: A time for setting intentions and new beginnings.\nAstrological Significance: Represents a fresh start\, reflection\, and inward focus.
-DTSTART:20461227T103859Z
-SUMMARY:🌑 New Moon ♐ (🜂)
-UID:d8ea21dd-34cc-432c-bfbc-2da0294c4643@d8ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The 🌗 3rd Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
-DTSTART:20460527T170641Z
-SUMMARY:🌗 3rd Quarter Moon ♒ [🜁]
-UID:ad1046d3-17e0-4a24-bd4c-325bb8e968c9@ad10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The New Moon marks the beginning of the lunar cycle. The Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\nCultural Significance: A time for setting intentions and new beginnings.\nAstrological Significance: Represents a fresh start\, reflection\, and inward focus.
-DTSTART:20460930T022536Z
-SUMMARY:🌑 New Moon ♍ (🜃)
-UID:eee5fe6e-00a9-4ddb-bd56-2d9c461912ce@eee5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The 🌗 3rd Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
-DTSTART:20460427T233030Z
-SUMMARY:🌗 3rd Quarter Moon ♑ <🜃>
-UID:b4d34622-45e6-4ba5-97af-472b8942440c@b4d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The New Moon marks the beginning of the lunar cycle. The Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\nCultural Significance: A time for setting intentions and new beginnings.\nAstrological Significance: Represents a fresh start\, reflection\, and inward focus.
-DTSTART:20460704T013859Z
-SUMMARY:🌑 New Moon ♊ (🜁)
-UID:54693368-97a6-43a4-82e3-cd2a4435f260@5469.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The 🌓 1st Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
-DTSTART:20460710T195330Z
-SUMMARY:🌓 1st Quarter Moon ♍ (🜃)
-UID:7ef61c6b-3a00-4efd-b249-1dd628962f89@7ef6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The New Moon marks the beginning of the lunar cycle. The Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\nCultural Significance: A time for setting intentions and new beginnings.\nAstrological Significance: Represents a fresh start\, reflection\, and inward focus.
-DTSTART:20460506T025610Z
-SUMMARY:🌑 New Moon ♈ <🜂>
-UID:f263c102-2fd0-47a2-864d-bc686218db6b@f263.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The 🌗 3rd Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
-DTSTART:20460824T183622Z
-SUMMARY:🌗 3rd Quarter Moon ♉ [🜃]
-UID:a8d6c1c2-6bbf-4ad3-818b-c10b8e94273b@a8d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The 🌗 3rd Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
-DTSTART:20461121T061030Z
-SUMMARY:🌗 3rd Quarter Moon ♌ [🜂]
-UID:8ec425c1-875f-44a8-9d85-cd7aaee8a650@8ec4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The 🌗 3rd Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
-DTSTART:20461022T200749Z
-SUMMARY:🌗 3rd Quarter Moon ♋ <🜄>
-UID:1c5ed3b2-a5e6-4790-9a90-52374f3c3947@1c5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The 🌓 1st Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
-DTSTART:20461105T122843Z
-SUMMARY:🌓 1st Quarter Moon ♑ <🜃>
-UID:1e1a82ee-b7fd-4ca4-91a7-ad8a171b8db7@1e1a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The 🌓 1st Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
-DTSTART:20460907T090705Z
-SUMMARY:🌓 1st Quarter Moon ♏ [🜄]
-UID:46b76a64-7a87-4949-8b4a-4fa6d6341952@46b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The New Moon marks the beginning of the lunar cycle. The Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\nCultural Significance: A time for setting intentions and new beginnings.\nAstrological Significance: Represents a fresh start\, reflection\, and inward focus.
-DTSTART:20461127T215012Z
-SUMMARY:🌑 New Moon ♏ [🜄]
-UID:03161153-24e1-4272-ad0a-58251e163091@0316.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The 🌓 1st Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
-DTSTART:20460513T102458Z
-SUMMARY:🌓 1st Quarter Moon ♋ <🜄>
-UID:1b21f349-6198-414d-81d5-f505ff859657@1b21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The New Moon marks the beginning of the lunar cycle. The Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\nCultural Significance: A time for setting intentions and new beginnings.\nAstrological Significance: Represents a fresh start\, reflection\, and inward focus.
-DTSTART:20460406T115146Z
-SUMMARY:🌑 New Moon ♓ (🜄)
-UID:3e35a472-2c32-447c-a0c6-cf5be63e7779@3e35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Buck' for the month of July.\nCultural Significance: No cultural significance available.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Sagittarius ♐ (🜂).\nAstrological Significance: Adventurous\, philosophical\, and optimistic.\n
-DTSTART:20460718T005507Z
-SUMMARY:🌕 Full Moon (Buck) ♐ (🜂)
-UID:df2c129b-d992-4ddd-8a13-1d528f4c05ec@df2c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The New Moon marks the beginning of the lunar cycle. The Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\nCultural Significance: A time for setting intentions and new beginnings.\nAstrological Significance: Represents a fresh start\, reflection\, and inward focus.
-DTSTART:20460802T102535Z
-SUMMARY:🌑 New Moon ♋ <🜄>
-UID:641aedb6-fddc-436b-a213-ce1637de23dc@641a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Cold' for the month of December.\nCultural Significance: No cultural significance available.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Taurus ♉ [🜃].\nAstrological Significance: Grounded\, practical\, and loyal.\n
-DTSTART:20461213T095532Z
-SUMMARY:🌕 Full Moon (Cold) ♉ [🜃]
-UID:524f6038-125c-431b-b820-2690071a593a@524f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Harvest' for the month of September.\nCultural Significance: No cultural significance available.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Aquarius ♒ [🜁].\nAstrological Significance: Innovative\, independent\, and humanitarian.\n
-DTSTART:20460915T063927Z
-SUMMARY:🌕 Full Moon (Harvest) ♒ [🜁]
-UID:af42a786-babc-437f-ad60-3efb7b5ab859@af42.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The 🌗 3rd Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
-DTSTART:20460726T031931Z
-SUMMARY:🌗 3rd Quarter Moon ♈ <🜂>
-UID:b769832b-21de-4fda-ad2b-beca54ba4e4e@b769.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Snow' for the month of February.\nCultural Significance: No cultural significance available.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Leo ♌ [🜂].\nAstrological Significance: Confident\, creative\, and bold.\n
-DTSTART:20460220T234423Z
-SUMMARY:🌕 Full Moon (Snow) ♌ [🜂]
-UID:04fb5ee1-ecc2-407d-9684-8896626a9ca2@04fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Wolf' for the month of January.\nCultural Significance: No cultural significance available.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Cancer ♋ <🜄>.\nAstrological Significance: Emotional\, nurturing\, and protective.\n
-DTSTART:20460122T125123Z
-SUMMARY:🌕 Full Moon (Wolf) ♋ <🜄>
-UID:57255bbb-18b1-4986-9fe4-b6c84063a576@5725.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The 🌗 3rd Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
-DTSTART:20460227T162302Z
-SUMMARY:🌗 3rd Quarter Moon ♏ [🜄]
-UID:309f8016-b83e-4a77-b43c-cd2903d3638e@309f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Sturgeon' for the month of August.\nCultural Significance: No cultural significance available.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Capricorn ♑ <🜃>.\nAstrological Significance: Disciplined\, ambitious\, and practical.\n
-DTSTART:20460816T145012Z
-SUMMARY:🌕 Full Moon (Sturgeon) ♑ <🜃>
-UID:d84d1748-7457-4f4f-9f18-13459406c88a@d84d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Hunter's' for the month of October.\nCultural Significance: No cultural significance available.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Pisces ♓ (🜄).\nAstrological Significance: Dreamy\, intuitive\, and compassionate.\n
-DTSTART:20461014T234123Z
-SUMMARY:🌕 Full Moon (Hunter's) ♓ (🜄)
-UID:5a4c5735-300d-4d94-bdd4-b6cde1362277@5a4c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Beaver' for the month of November.\nCultural Significance: No cultural significance available.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Aries ♈ <🜂>.\nAstrological Significance: Fiery\, passionate\, and driven.\n
-DTSTART:20461113T170433Z
-SUMMARY:🌕 Full Moon (Beaver) ♈ <🜂>
-UID:7ab7748d-4a0d-4603-b13d-3b8706e5361c@7ab7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The New Moon marks the beginning of the lunar cycle. The Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\nCultural Significance: A time for setting intentions and new beginnings.\nAstrological Significance: Represents a fresh start\, reflection\, and inward focus.
-DTSTART:20461029T111708Z
-SUMMARY:🌑 New Moon ♎ <🜁>
-UID:2fdebc2a-fe42-4153-8696-82bbe0e558ea@2fde.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The 🌓 1st Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
-DTSTART:20460315T171255Z
-SUMMARY:🌓 1st Quarter Moon ♉ [🜃]
-UID:916a0a69-6da4-4803-b241-9ce829ba4217@916a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The 🌗 3rd Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
-DTSTART:20461220T144309Z
-SUMMARY:🌗 3rd Quarter Moon ♍ (🜃)
-UID:0a2f5c49-b5a7-4dc9-b250-779b4d33b0cf@0a2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The 🌗 3rd Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
-DTSTART:20460129T041132Z
-SUMMARY:🌗 3rd Quarter Moon ♎ <🜁>
-UID:7f61f30a-91d1-4151-b302-235f8f959125@7f61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The 🌓 1st Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
-DTSTART:20460414T032137Z
-SUMMARY:🌓 1st Quarter Moon ♊ (🜁)
-UID:068a9a5e-0e57-4022-9c8f-29f8e282d3c6@068a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The New Moon marks the beginning of the lunar cycle. The Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\nCultural Significance: A time for setting intentions and new beginnings.\nAstrological Significance: Represents a fresh start\, reflection\, and inward focus.
-DTSTART:20460307T181526Z
-SUMMARY:🌑 New Moon ♒ [🜁]
-UID:4a592a07-b7c1-471f-b8e6-f7de5c1be4aa@4a59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Strawberry' for the month of June.\nCultural Significance: No cultural significance available.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Sagittarius ♐ (🜂).\nAstrological Significance: Adventurous\, philosophical\, and optimistic.\n
-DTSTART:20460618T131007Z
-SUMMARY:🌕 Full Moon (Strawberry) ♐ (🜂)
-UID:cb68e6f3-97c9-4d72-990c-c4d09bfd4be0@cb68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The 🌓 1st Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
-DTSTART:20460809T011547Z
-SUMMARY:🌓 1st Quarter Moon ♎ <🜁>
-UID:9564bf2d-ea3c-484a-8387-24958e7f5339@9564.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The 🌓 1st Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
-DTSTART:20460115T094240Z
-SUMMARY:🌓 1st Quarter Moon ♓ (🜄)
-UID:dea59982-dd3b-4927-a1ab-6452039f1fdb@dea5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The 🌓 1st Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
-DTSTART:20461006T204111Z
-SUMMARY:🌓 1st Quarter Moon ♐ (🜂)
-UID:a2f5dcb6-36c3-4bc8-9e44-4268e4763d11@a2f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The New Moon marks the beginning of the lunar cycle. The Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\nCultural Significance: A time for setting intentions and new beginnings.\nAstrological Significance: Represents a fresh start\, reflection\, and inward focus.
-DTSTART:20460205T230948Z
-SUMMARY:🌑 New Moon ♑ <🜃>
-UID:7231eeb0-7867-4281-93ca-b0f869eb1e92@7231.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Worm' for the month of March.\nCultural Significance: No cultural significance available.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Virgo ♍ (🜃).\nAstrological Significance: Detail-oriented\, analytical\, and helpful.\n
+DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\n\nThis Full Moon is traditionally called the 'Worm Moon' for the month of March. The Worm Moon signifies the thawing earth as spring approaches\, with earthworms emerging to rejuvenate the soil. This moon celebrates the return of fertility and the cycles of renewal\, marking a time for planting and new beginnings. Its name reflects a connection to the rhythms of nature and the changing of the seasons.\n\nSignificance: A time of culmination\, celebration\, and achieving clarity.\n\nMeaning: A time of heightened emotions\, clarity\, and reflection.\n\nZodiac: Virgo ♍ (🜃)\nAlignment: Galactic Center\n\nDescription: Mutable Earth ● ⛰️\nThe Moon in Virgo enhances focus on details\, organization\, and practical solutions. This is a time for analyzing emotions and finding ways to be of service to others. Virgo’s grounded energy promotes self-improvement and mindfulness\, though it may also bring self-criticism.
 DTSTART:20460322T092702Z
 SUMMARY:🌕 Full Moon (Worm) ♍ (🜃)
-UID:24a47f54-b601-4b41-9de6-8fc892aa2dc8@24a4.org
+UID:d25a3a30-59cc-46fe-8237-dbdd3bca451e@d25a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The 🌗 3rd Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
-DTSTART:20460626T104005Z
-SUMMARY:🌗 3rd Quarter Moon ♓ (🜄)
-UID:1055cb11-df53-4aa7-a6d1-893651f3274f@1055.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The New Moon marks the beginning of the lunar cycle. The Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\nCultural Significance: A time for setting intentions and new beginnings.\nAstrological Significance: Represents a fresh start\, reflection\, and inward focus.
-DTSTART:20460831T182532Z
-SUMMARY:🌑 New Moon ♌ [🜂]
-UID:405c5ebf-bf3c-4c80-a9f5-d3ce78c0a9ac@405c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The New Moon marks the beginning of the lunar cycle. The Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\nCultural Significance: A time for setting intentions and new beginnings.\nAstrological Significance: Represents a fresh start\, reflection\, and inward focus.
-DTSTART:20460107T042408Z
-SUMMARY:🌑 New Moon ♐ (🜂)
-UID:2c00a938-d168-4dac-b1e1-b9f6afdc566d@2c00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The 🌓 1st Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
-DTSTART:20460214T032033Z
-SUMMARY:🌓 1st Quarter Moon ♈ <🜂>
-UID:5e3b1a9f-903e-4c36-96ed-6c615b5e5c50@5e3b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The 🌓 1st Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
+DESCRIPTION:The First Quarter Moon occurs when half the Moon is illuminated\, and the other half remains dark.\n\nThis phase is a time of action\, decisions\, and challenges as you work toward your goals.\n\nSignificance: Represents a period of growth and progress in many traditions.\n\nMeaning: A time to confront obstacles and make important choices\, paving the way for success.\n\nZodiac: Leo ♌ [🜂]\nAlignment: Galactic Center\n\nDescription: Fixed Fire ■ 🔥\nWhen the Moon is in Leo\, creativity\, self-expression\, and confidence are emphasized. It’s a time for shining brightly\, taking pride in achievements\, and seeking recognition. Leo’s influence inspires warmth and generosity\, but it may also amplify a need for attention.
 DTSTART:20460611T152746Z
 SUMMARY:🌓 1st Quarter Moon ♌ [🜂]
-UID:b5e313a3-54f5-43ed-9a60-0c3016f64a30@b5e3.org
+UID:fdce5427-2dce-4a49-afce-2f5d164d3bf9@fdce.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The 🌗 3rd Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
-DTSTART:20460923T081549Z
-SUMMARY:🌗 3rd Quarter Moon ♊ (🜁)
-UID:748e7c52-e349-460c-983f-a129a01533f8@748e.org
+DESCRIPTION:The New Moon marks the beginning of the lunar cycle.\n\nThe Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\n\nSignificance: A time for setting intentions and new beginnings.\n\nMeaning: Represents a fresh start\, reflection\, and inward focus.\n\nZodiac: Pisces ♓ (🜄)\nAlignment: Galactic Center\n\nDescription: Mutable Water ● 💧\nThe Moon in Pisces enhances intuition\, dreaminess\, and compassion. This is a time for creativity\, spiritual exploration\, and connecting with the deeper currents of emotion. Pisces’ watery energy promotes empathy and imagination but may also bring escapism or confusion.
+DTSTART:20460406T115146Z
+SUMMARY:🌑 New Moon ♓ (🜄)
+UID:ea8f6085-6160-4ff2-afd5-45e2d6a69ae0@ea8f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The New Moon marks the beginning of the lunar cycle. The Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\nCultural Significance: A time for setting intentions and new beginnings.\nAstrological Significance: Represents a fresh start\, reflection\, and inward focus.
+DESCRIPTION:The New Moon marks the beginning of the lunar cycle.\n\nThe Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\n\nSignificance: A time for setting intentions and new beginnings.\n\nMeaning: Represents a fresh start\, reflection\, and inward focus.\n\nZodiac: Leo ♌ [🜂]\nAlignment: Galactic Center\n\nDescription: Fixed Fire ■ 🔥\nWhen the Moon is in Leo\, creativity\, self-expression\, and confidence are emphasized. It’s a time for shining brightly\, taking pride in achievements\, and seeking recognition. Leo’s influence inspires warmth and generosity\, but it may also amplify a need for attention.
+DTSTART:20460831T182532Z
+SUMMARY:🌑 New Moon ♌ [🜂]
+UID:49a4aff7-cfa6-4f63-82fc-aa9bbb42c3f2@49a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The New Moon marks the beginning of the lunar cycle.\n\nThe Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\n\nSignificance: A time for setting intentions and new beginnings.\n\nMeaning: Represents a fresh start\, reflection\, and inward focus.\n\nZodiac: Taurus ♉ [🜃]\nAlignment: Galactic Center\n\nDescription: Fixed Earth ■ ⛰️\nThe Moon in Taurus brings a grounded\, steady\, and sensual energy. It is a time to focus on comfort\, stability\, and enjoying the pleasures of life. Taurus' connection to the Earth helps anchor emotions\, encouraging patience and long-term planning.
 DTSTART:20460604T152233Z
 SUMMARY:🌑 New Moon ♉ [🜃]
-UID:f4771a75-4c15-48d9-a3b6-d09200cb15fd@f477.org
+UID:0fe0f99d-6b12-4ea7-94db-c92d9b309387@0fe0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The First Quarter Moon occurs when half the Moon is illuminated\, and the other half remains dark.\n\nThis phase is a time of action\, decisions\, and challenges as you work toward your goals.\n\nSignificance: Represents a period of growth and progress in many traditions.\n\nMeaning: A time to confront obstacles and make important choices\, paving the way for success.\n\nZodiac: Cancer ♋ <🜄>\nAlignment: Galactic Center\n\nDescription: Cardinal Water ▲ 💧\nThe Moon feels at home in Cancer\, amplifying emotions\, intuition\, and the need for nurturing. This is a time for focusing on home\, family\, and emotional well-being. Cancer’s protective energy encourages self-care and deep connections\, but it may also bring sensitivity or moodiness.
+DTSTART:20460513T102458Z
+SUMMARY:🌓 1st Quarter Moon ♋ <🜄>
+UID:ed568c61-a4e9-44c3-a578-0c3ff1a159a7@ed56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The New Moon marks the beginning of the lunar cycle.\n\nThe Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\n\nSignificance: A time for setting intentions and new beginnings.\n\nMeaning: Represents a fresh start\, reflection\, and inward focus.\n\nZodiac: Scorpio ♏ [🜄]\nAlignment: Galactic Center\n\nDescription: Fixed Water ■ 💧\nThe Moon in Scorpio brings intense\, transformative\, and deeply emotional energy. This is a time for diving into hidden truths\, exploring passions\, and embracing change. Scorpio’s influence encourages emotional depth and resilience but may also amplify secrecy or possessiveness.
+DTSTART:20461127T215012Z
+SUMMARY:🌑 New Moon ♏ [🜄]
+UID:dd3be2b7-4a3d-4ed4-9133-03b678f20dd8@dd3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Third Quarter Moon occurs when half the Moon is illuminated as it wanes toward the New Moon.\n\nThis phase symbolizes release\, reflection\, and preparation for the next cycle.\n\nSignificance: Often associated with closure and letting go of what no longer serves you.\n\nMeaning: A period of introspection\, evaluation\, and setting the stage for new beginnings.\n\nZodiac: Virgo ♍ (🜃)\nAlignment: Galactic Center\n\nDescription: Mutable Earth ● ⛰️\nThe Moon in Virgo enhances focus on details\, organization\, and practical solutions. This is a time for analyzing emotions and finding ways to be of service to others. Virgo’s grounded energy promotes self-improvement and mindfulness\, though it may also bring self-criticism.
+DTSTART:20461220T144309Z
+SUMMARY:🌗 3rd Quarter Moon ♍ (🜃)
+UID:66e2f1ba-a5f6-4f5e-8baf-8c85390c6dc5@66e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The New Moon marks the beginning of the lunar cycle.\n\nThe Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\n\nSignificance: A time for setting intentions and new beginnings.\n\nMeaning: Represents a fresh start\, reflection\, and inward focus.\n\nZodiac: Libra ♎ <🜁>\nAlignment: Galactic Center\n\nDescription: Cardinal Air ▲ 💨\nWhen the Moon is in Libra\, balance\, harmony\, and relationships take center stage. This is an ideal time for diplomacy\, collaboration\, and creating beauty in one’s environment. Libra’s airy energy fosters a desire for fairness and connection\, though it may also lead to indecisiveness.
+DTSTART:20461029T111708Z
+SUMMARY:🌑 New Moon ♎ <🜁>
+UID:2dbb1107-61df-4bc1-a1e0-7a344f609028@2dbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The First Quarter Moon occurs when half the Moon is illuminated\, and the other half remains dark.\n\nThis phase is a time of action\, decisions\, and challenges as you work toward your goals.\n\nSignificance: Represents a period of growth and progress in many traditions.\n\nMeaning: A time to confront obstacles and make important choices\, paving the way for success.\n\nZodiac: Virgo ♍ (🜃)\nAlignment: Galactic Center\n\nDescription: Mutable Earth ● ⛰️\nThe Moon in Virgo enhances focus on details\, organization\, and practical solutions. This is a time for analyzing emotions and finding ways to be of service to others. Virgo’s grounded energy promotes self-improvement and mindfulness\, though it may also bring self-criticism.
+DTSTART:20460710T195330Z
+SUMMARY:🌓 1st Quarter Moon ♍ (🜃)
+UID:b264e15e-b70b-4744-a79d-9c976021bdad@b264.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Third Quarter Moon occurs when half the Moon is illuminated as it wanes toward the New Moon.\n\nThis phase symbolizes release\, reflection\, and preparation for the next cycle.\n\nSignificance: Often associated with closure and letting go of what no longer serves you.\n\nMeaning: A period of introspection\, evaluation\, and setting the stage for new beginnings.\n\nZodiac: Taurus ♉ [🜃]\nAlignment: Galactic Center\n\nDescription: Fixed Earth ■ ⛰️\nThe Moon in Taurus brings a grounded\, steady\, and sensual energy. It is a time to focus on comfort\, stability\, and enjoying the pleasures of life. Taurus' connection to the Earth helps anchor emotions\, encouraging patience and long-term planning.
+DTSTART:20460824T183622Z
+SUMMARY:🌗 3rd Quarter Moon ♉ [🜃]
+UID:4991e564-43be-49df-8450-71d4a4b1037f@4991.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Third Quarter Moon occurs when half the Moon is illuminated as it wanes toward the New Moon.\n\nThis phase symbolizes release\, reflection\, and preparation for the next cycle.\n\nSignificance: Often associated with closure and letting go of what no longer serves you.\n\nMeaning: A period of introspection\, evaluation\, and setting the stage for new beginnings.\n\nZodiac: Capricorn ♑ <🜃>\nAlignment: Galactic Center\n\nDescription: Cardinal Earth ▲ ⛰️\nThe Moon in Capricorn emphasizes discipline\, ambition\, and responsibility. This is a time for setting long-term goals\, focusing on work\, and achieving practical results. Capricorn’s grounded energy supports perseverance and structure but may also feel emotionally reserved.
+DTSTART:20460427T233030Z
+SUMMARY:🌗 3rd Quarter Moon ♑ <🜃>
+UID:7386a8dd-162b-4282-8a19-49db5d8347e3@7386.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\n\nThis Full Moon is traditionally called the 'Sturgeon Moon' for the month of August. The Sturgeon Moon is named for the large sturgeon fish caught in abundance during August\, a crucial time for survival in many communities. It highlights the relationship between humanity and water\, symbolizing sustenance and the gifts of the rivers and lakes. This moon is often linked to themes of gratitude and interdependence.\n\nSignificance: A time of culmination\, celebration\, and achieving clarity.\n\nMeaning: A time of heightened emotions\, clarity\, and reflection.\n\nZodiac: Capricorn ♑ <🜃>\nAlignment: Galactic Center\n\nDescription: Cardinal Earth ▲ ⛰️\nThe Moon in Capricorn emphasizes discipline\, ambition\, and responsibility. This is a time for setting long-term goals\, focusing on work\, and achieving practical results. Capricorn’s grounded energy supports perseverance and structure but may also feel emotionally reserved.
+DTSTART:20460816T145012Z
+SUMMARY:🌕 Full Moon (Sturgeon) ♑ <🜃>
+UID:42501680-84d5-4a6c-97f0-7da2db863ffb@4250.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Third Quarter Moon occurs when half the Moon is illuminated as it wanes toward the New Moon.\n\nThis phase symbolizes release\, reflection\, and preparation for the next cycle.\n\nSignificance: Often associated with closure and letting go of what no longer serves you.\n\nMeaning: A period of introspection\, evaluation\, and setting the stage for new beginnings.\n\nZodiac: Libra ♎ <🜁>\nAlignment: Galactic Center\n\nDescription: Cardinal Air ▲ 💨\nWhen the Moon is in Libra\, balance\, harmony\, and relationships take center stage. This is an ideal time for diplomacy\, collaboration\, and creating beauty in one’s environment. Libra’s airy energy fosters a desire for fairness and connection\, though it may also lead to indecisiveness.
+DTSTART:20460129T041132Z
+SUMMARY:🌗 3rd Quarter Moon ♎ <🜁>
+UID:3e364d7f-7053-4866-93d1-fea5f40b98d3@3e36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\n\nThis Full Moon is traditionally called the 'Snow Moon' for the month of February. The Snow Moon represents the heaviest snowfalls of the year\, blanketing the earth in quiet stillness. It reflects the challenges of enduring the harshness of winter while finding beauty in the frozen landscapes. Many cultures see this moon as a time to gather together and share warmth and stories by the fire.\n\nSignificance: A time of culmination\, celebration\, and achieving clarity.\n\nMeaning: A time of heightened emotions\, clarity\, and reflection.\n\nZodiac: Leo ♌ [🜂]\nAlignment: Galactic Center\n\nDescription: Fixed Fire ■ 🔥\nWhen the Moon is in Leo\, creativity\, self-expression\, and confidence are emphasized. It’s a time for shining brightly\, taking pride in achievements\, and seeking recognition. Leo’s influence inspires warmth and generosity\, but it may also amplify a need for attention.
+DTSTART:20460220T234423Z
+SUMMARY:🌕 Full Moon (Snow) ♌ [🜂]
+UID:8b5b8b31-3b15-4d8a-8c9b-1ea29a7e884d@8b5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The First Quarter Moon occurs when half the Moon is illuminated\, and the other half remains dark.\n\nThis phase is a time of action\, decisions\, and challenges as you work toward your goals.\n\nSignificance: Represents a period of growth and progress in many traditions.\n\nMeaning: A time to confront obstacles and make important choices\, paving the way for success.\n\nZodiac: Pisces ♓ (🜄)\nAlignment: Galactic Center\n\nDescription: Mutable Water ● 💧\nThe Moon in Pisces enhances intuition\, dreaminess\, and compassion. This is a time for creativity\, spiritual exploration\, and connecting with the deeper currents of emotion. Pisces’ watery energy promotes empathy and imagination but may also bring escapism or confusion.
+DTSTART:20460115T094240Z
+SUMMARY:🌓 1st Quarter Moon ♓ (🜄)
+UID:41decea7-1e21-481c-87bc-5646c448b3f7@41de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The First Quarter Moon occurs when half the Moon is illuminated\, and the other half remains dark.\n\nThis phase is a time of action\, decisions\, and challenges as you work toward your goals.\n\nSignificance: Represents a period of growth and progress in many traditions.\n\nMeaning: A time to confront obstacles and make important choices\, paving the way for success.\n\nZodiac: Aquarius ♒ [🜁]\nAlignment: Galactic Center\n\nDescription: Fixed Air ■ 💨\nWhen the Moon is in Aquarius\, innovation\, independence\, and humanitarian ideals are amplified. This is a time for thinking outside the box\, exploring unconventional ideas\, and fostering community. Aquarius’ influence encourages intellectual curiosity and progressive thinking\, though it may also feel detached emotionally.
+DTSTART:20461205T075629Z
+SUMMARY:🌓 1st Quarter Moon ♒ [🜁]
+UID:a48d46b1-c172-421d-9c67-b58fdfc7f812@a48d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Third Quarter Moon occurs when half the Moon is illuminated as it wanes toward the New Moon.\n\nThis phase symbolizes release\, reflection\, and preparation for the next cycle.\n\nSignificance: Often associated with closure and letting go of what no longer serves you.\n\nMeaning: A period of introspection\, evaluation\, and setting the stage for new beginnings.\n\nZodiac: Pisces ♓ (🜄)\nAlignment: Galactic Center\n\nDescription: Mutable Water ● 💧\nThe Moon in Pisces enhances intuition\, dreaminess\, and compassion. This is a time for creativity\, spiritual exploration\, and connecting with the deeper currents of emotion. Pisces’ watery energy promotes empathy and imagination but may also bring escapism or confusion.
+DTSTART:20460626T104005Z
+SUMMARY:🌗 3rd Quarter Moon ♓ (🜄)
+UID:4fb2abcd-cfd9-45ba-b6d2-57271cd04491@4fb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\n\nThis Full Moon is traditionally called the 'Cold Moon' for the month of December. The Cold Moon marks the longest nights of the year and the deep chill of December\, symbolizing endurance and reflection. It invites introspection and quiet moments to appreciate the stillness of winter. This moon is a time for rest and finding inner warmth amidst the season’s challenges.\n\nSignificance: A time of culmination\, celebration\, and achieving clarity.\n\nMeaning: A time of heightened emotions\, clarity\, and reflection.\n\nZodiac: Taurus ♉ [🜃]\nAlignment: Galactic Center\n\nDescription: Fixed Earth ■ ⛰️\nThe Moon in Taurus brings a grounded\, steady\, and sensual energy. It is a time to focus on comfort\, stability\, and enjoying the pleasures of life. Taurus' connection to the Earth helps anchor emotions\, encouraging patience and long-term planning.
+DTSTART:20461213T095532Z
+SUMMARY:🌕 Full Moon (Cold) ♉ [🜃]
+UID:09c5253f-c18f-4d20-953d-f39585e4e5c1@09c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The New Moon marks the beginning of the lunar cycle.\n\nThe Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\n\nSignificance: A time for setting intentions and new beginnings.\n\nMeaning: Represents a fresh start\, reflection\, and inward focus.\n\nZodiac: Aries ♈ <🜂>\nAlignment: Galactic Center\n\nDescription: Cardinal Fire ▲ 🔥\nWhen the Moon is in Aries\, its energy is bold\, impulsive\, and action-oriented. This is a time for initiating projects\, taking risks\, and embracing dynamic energy. The fiery influence of Aries enhances courage and determination but may also heighten impatience or restlessness.
+DTSTART:20460506T025610Z
+SUMMARY:🌑 New Moon ♈ <🜂>
+UID:3f2a9c58-866c-414d-8618-93d5a35168b4@3f2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\n\nThis Full Moon is traditionally called the 'Wolf Moon' for the month of January. The Wolf Moon is deeply tied to the haunting howls of wolves that echo through the cold winter air\, symbolizing survival and community in harsh conditions. It serves as a reminder of the strong bonds within wolf packs and the importance of perseverance. This moon has often inspired tales and myths of transformation and primal instincts.\n\nSignificance: A time of culmination\, celebration\, and achieving clarity.\n\nMeaning: A time of heightened emotions\, clarity\, and reflection.\n\nZodiac: Cancer ♋ <🜄>\nAlignment: Galactic Center\n\nDescription: Cardinal Water ▲ 💧\nThe Moon feels at home in Cancer\, amplifying emotions\, intuition\, and the need for nurturing. This is a time for focusing on home\, family\, and emotional well-being. Cancer’s protective energy encourages self-care and deep connections\, but it may also bring sensitivity or moodiness.
+DTSTART:20460122T125123Z
+SUMMARY:🌕 Full Moon (Wolf) ♋ <🜄>
+UID:f9e82053-fed0-40c2-92b0-1e38ae14b9f6@f9e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\n\nThis Full Moon is traditionally called the 'Hunter's Moon' for the month of October. The Hunter's Moon marks the season of hunting game\, providing resources for the harsh months of winter. It is a symbol of self-reliance\, strategy\, and the balance between giving and taking from nature. This moon has inspired many traditional rituals and celebrations of the hunt.\n\nSignificance: A time of culmination\, celebration\, and achieving clarity.\n\nMeaning: A time of heightened emotions\, clarity\, and reflection.\n\nZodiac: Pisces ♓ (🜄)\nAlignment: Galactic Center\n\nDescription: Mutable Water ● 💧\nThe Moon in Pisces enhances intuition\, dreaminess\, and compassion. This is a time for creativity\, spiritual exploration\, and connecting with the deeper currents of emotion. Pisces’ watery energy promotes empathy and imagination but may also bring escapism or confusion.
+DTSTART:20461014T234123Z
+SUMMARY:🌕 Full Moon (Hunter's) ♓ (🜄)
+UID:4733f13a-cc40-44e3-8e7e-94af35c3352d@4733.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The New Moon marks the beginning of the lunar cycle.\n\nThe Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\n\nSignificance: A time for setting intentions and new beginnings.\n\nMeaning: Represents a fresh start\, reflection\, and inward focus.\n\nZodiac: Virgo ♍ (🜃)\nAlignment: Galactic Center\n\nDescription: Mutable Earth ● ⛰️\nThe Moon in Virgo enhances focus on details\, organization\, and practical solutions. This is a time for analyzing emotions and finding ways to be of service to others. Virgo’s grounded energy promotes self-improvement and mindfulness\, though it may also bring self-criticism.
+DTSTART:20460930T022536Z
+SUMMARY:🌑 New Moon ♍ (🜃)
+UID:8ce2d17c-5d3c-4988-ba53-7ab13491e194@8ce2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The New Moon marks the beginning of the lunar cycle.\n\nThe Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\n\nSignificance: A time for setting intentions and new beginnings.\n\nMeaning: Represents a fresh start\, reflection\, and inward focus.\n\nZodiac: Capricorn ♑ <🜃>\nAlignment: Galactic Center\n\nDescription: Cardinal Earth ▲ ⛰️\nThe Moon in Capricorn emphasizes discipline\, ambition\, and responsibility. This is a time for setting long-term goals\, focusing on work\, and achieving practical results. Capricorn’s grounded energy supports perseverance and structure but may also feel emotionally reserved.
+DTSTART:20460205T230948Z
+SUMMARY:🌑 New Moon ♑ <🜃>
+UID:740ecd40-9c8c-4551-97f3-af00d20c04c9@740e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The First Quarter Moon occurs when half the Moon is illuminated\, and the other half remains dark.\n\nThis phase is a time of action\, decisions\, and challenges as you work toward your goals.\n\nSignificance: Represents a period of growth and progress in many traditions.\n\nMeaning: A time to confront obstacles and make important choices\, paving the way for success.\n\nZodiac: Capricorn ♑ <🜃>\nAlignment: Galactic Center\n\nDescription: Cardinal Earth ▲ ⛰️\nThe Moon in Capricorn emphasizes discipline\, ambition\, and responsibility. This is a time for setting long-term goals\, focusing on work\, and achieving practical results. Capricorn’s grounded energy supports perseverance and structure but may also feel emotionally reserved.
+DTSTART:20461105T122843Z
+SUMMARY:🌓 1st Quarter Moon ♑ <🜃>
+UID:ecad2d4d-5c41-4e9c-a204-3e616956c119@ecad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Third Quarter Moon occurs when half the Moon is illuminated as it wanes toward the New Moon.\n\nThis phase symbolizes release\, reflection\, and preparation for the next cycle.\n\nSignificance: Often associated with closure and letting go of what no longer serves you.\n\nMeaning: A period of introspection\, evaluation\, and setting the stage for new beginnings.\n\nZodiac: Aries ♈ <🜂>\nAlignment: Galactic Center\n\nDescription: Cardinal Fire ▲ 🔥\nWhen the Moon is in Aries\, its energy is bold\, impulsive\, and action-oriented. This is a time for initiating projects\, taking risks\, and embracing dynamic energy. The fiery influence of Aries enhances courage and determination but may also heighten impatience or restlessness.
+DTSTART:20460726T031931Z
+SUMMARY:🌗 3rd Quarter Moon ♈ <🜂>
+UID:c9977fbe-7fcf-4b60-8b76-2b9a64858405@c997.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The First Quarter Moon occurs when half the Moon is illuminated\, and the other half remains dark.\n\nThis phase is a time of action\, decisions\, and challenges as you work toward your goals.\n\nSignificance: Represents a period of growth and progress in many traditions.\n\nMeaning: A time to confront obstacles and make important choices\, paving the way for success.\n\nZodiac: Libra ♎ <🜁>\nAlignment: Galactic Center\n\nDescription: Cardinal Air ▲ 💨\nWhen the Moon is in Libra\, balance\, harmony\, and relationships take center stage. This is an ideal time for diplomacy\, collaboration\, and creating beauty in one’s environment. Libra’s airy energy fosters a desire for fairness and connection\, though it may also lead to indecisiveness.
+DTSTART:20460809T011547Z
+SUMMARY:🌓 1st Quarter Moon ♎ <🜁>
+UID:796a614e-e7df-4779-aa43-1fe3a5471b5f@796a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The New Moon marks the beginning of the lunar cycle.\n\nThe Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\n\nSignificance: A time for setting intentions and new beginnings.\n\nMeaning: Represents a fresh start\, reflection\, and inward focus.\n\nZodiac: Sagittarius ♐ (🜂)\nAlignment: Galactic Center\n\nDescription: Mutable Fire ● 🔥\nWhen the Moon is in Sagittarius\, optimism\, adventure\, and philosophical exploration are highlighted. It’s a time for expanding horizons\, seeking knowledge\, and embracing freedom. Sagittarius’ fiery energy inspires enthusiasm and growth\, though it may also bring restlessness.
+DTSTART:20460107T042408Z
+SUMMARY:🌑 New Moon ♐ (🜂)
+UID:29d5e05f-eaf3-4f62-99be-64a1b1c9dbc9@29d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The New Moon marks the beginning of the lunar cycle.\n\nThe Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\n\nSignificance: A time for setting intentions and new beginnings.\n\nMeaning: Represents a fresh start\, reflection\, and inward focus.\n\nZodiac: Gemini ♊ (🜁)\nAlignment: Galactic Center\n\nDescription: Mutable Air ● 💨\nWhen the Moon is in Gemini\, communication\, curiosity\, and mental agility are heightened. This is an excellent time for gathering information\, exploring new ideas\, and socializing. The adaptable energy of Gemini can bring variety and excitement\, though it may scatter focus.
+DTSTART:20460704T013859Z
+SUMMARY:🌑 New Moon ♊ (🜁)
+UID:b5191421-1d1a-4b7c-839f-05b9a380bb58@b519.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The New Moon marks the beginning of the lunar cycle.\n\nThe Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\n\nSignificance: A time for setting intentions and new beginnings.\n\nMeaning: Represents a fresh start\, reflection\, and inward focus.\n\nZodiac: Aquarius ♒ [🜁]\nAlignment: Galactic Center\n\nDescription: Fixed Air ■ 💨\nWhen the Moon is in Aquarius\, innovation\, independence\, and humanitarian ideals are amplified. This is a time for thinking outside the box\, exploring unconventional ideas\, and fostering community. Aquarius’ influence encourages intellectual curiosity and progressive thinking\, though it may also feel detached emotionally.
+DTSTART:20460307T181526Z
+SUMMARY:🌑 New Moon ♒ [🜁]
+UID:40492547-632c-4e51-b578-2966788bf1b4@4049.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Third Quarter Moon occurs when half the Moon is illuminated as it wanes toward the New Moon.\n\nThis phase symbolizes release\, reflection\, and preparation for the next cycle.\n\nSignificance: Often associated with closure and letting go of what no longer serves you.\n\nMeaning: A period of introspection\, evaluation\, and setting the stage for new beginnings.\n\nZodiac: Scorpio ♏ [🜄]\nAlignment: Galactic Center\n\nDescription: Fixed Water ■ 💧\nThe Moon in Scorpio brings intense\, transformative\, and deeply emotional energy. This is a time for diving into hidden truths\, exploring passions\, and embracing change. Scorpio’s influence encourages emotional depth and resilience but may also amplify secrecy or possessiveness.
+DTSTART:20460227T162302Z
+SUMMARY:🌗 3rd Quarter Moon ♏ [🜄]
+UID:3a61b20c-fe0e-4595-968d-93cdf63f5423@3a61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\n\nThis Full Moon is traditionally called the 'Buck Moon' for the month of July. The Buck Moon signifies the growth of antlers on young bucks\, a powerful symbol of strength and vitality. It reflects a time of personal development\, preparation\, and stepping into one's power. This moon has long been associated with the wild energy of nature and the cycle of maturity.\n\nSignificance: A time of culmination\, celebration\, and achieving clarity.\n\nMeaning: A time of heightened emotions\, clarity\, and reflection.\n\nZodiac: Sagittarius ♐ (🜂)\nAlignment: Galactic Center\n\nDescription: Mutable Fire ● 🔥\nWhen the Moon is in Sagittarius\, optimism\, adventure\, and philosophical exploration are highlighted. It’s a time for expanding horizons\, seeking knowledge\, and embracing freedom. Sagittarius’ fiery energy inspires enthusiasm and growth\, though it may also bring restlessness.
+DTSTART:20460718T005507Z
+SUMMARY:🌕 Full Moon (Buck) ♐ (🜂)
+UID:9c0b1be1-1460-47f6-ace8-5528b1c51197@9c0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Third Quarter Moon occurs when half the Moon is illuminated as it wanes toward the New Moon.\n\nThis phase symbolizes release\, reflection\, and preparation for the next cycle.\n\nSignificance: Often associated with closure and letting go of what no longer serves you.\n\nMeaning: A period of introspection\, evaluation\, and setting the stage for new beginnings.\n\nZodiac: Sagittarius ♐ (🜂)\nAlignment: Galactic Center\n\nDescription: Mutable Fire ● 🔥\nWhen the Moon is in Sagittarius\, optimism\, adventure\, and philosophical exploration are highlighted. It’s a time for expanding horizons\, seeking knowledge\, and embracing freedom. Sagittarius’ fiery energy inspires enthusiasm and growth\, though it may also bring restlessness.
+DTSTART:20460329T065721Z
+SUMMARY:🌗 3rd Quarter Moon ♐ (🜂)
+UID:fe1ff952-add5-488a-a5ac-4d56a182401e@fe1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The First Quarter Moon occurs when half the Moon is illuminated\, and the other half remains dark.\n\nThis phase is a time of action\, decisions\, and challenges as you work toward your goals.\n\nSignificance: Represents a period of growth and progress in many traditions.\n\nMeaning: A time to confront obstacles and make important choices\, paving the way for success.\n\nZodiac: Aries ♈ <🜂>\nAlignment: Galactic Center\n\nDescription: Cardinal Fire ▲ 🔥\nWhen the Moon is in Aries\, its energy is bold\, impulsive\, and action-oriented. This is a time for initiating projects\, taking risks\, and embracing dynamic energy. The fiery influence of Aries enhances courage and determination but may also heighten impatience or restlessness.
+DTSTART:20460214T032033Z
+SUMMARY:🌓 1st Quarter Moon ♈ <🜂>
+UID:9046777c-047a-464f-96ca-bc1f68af6554@9046.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The New Moon marks the beginning of the lunar cycle.\n\nThe Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\n\nSignificance: A time for setting intentions and new beginnings.\n\nMeaning: Represents a fresh start\, reflection\, and inward focus.\n\nZodiac: Cancer ♋ <🜄>\nAlignment: Galactic Center\n\nDescription: Cardinal Water ▲ 💧\nThe Moon feels at home in Cancer\, amplifying emotions\, intuition\, and the need for nurturing. This is a time for focusing on home\, family\, and emotional well-being. Cancer’s protective energy encourages self-care and deep connections\, but it may also bring sensitivity or moodiness.
+DTSTART:20460802T102535Z
+SUMMARY:🌑 New Moon ♋ <🜄>
+UID:1d53aa68-7733-48cd-93aa-bc3f2c0dc0ac@1d53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\n\nThis Full Moon is traditionally called the 'Strawberry Moon' for the month of June. The Strawberry Moon marks the peak of the strawberry harvest\, bringing sweetness and nourishment to summer. It symbolizes abundance\, prosperity\, and the rewards of hard work. This moon is often celebrated with gatherings and feasts\, reflecting the joy of nature’s bounty.\n\nSignificance: A time of culmination\, celebration\, and achieving clarity.\n\nMeaning: A time of heightened emotions\, clarity\, and reflection.\n\nZodiac: Sagittarius ♐ (🜂)\nAlignment: Galactic Center\n\nDescription: Mutable Fire ● 🔥\nWhen the Moon is in Sagittarius\, optimism\, adventure\, and philosophical exploration are highlighted. It’s a time for expanding horizons\, seeking knowledge\, and embracing freedom. Sagittarius’ fiery energy inspires enthusiasm and growth\, though it may also bring restlessness.
+DTSTART:20460618T131007Z
+SUMMARY:🌕 Full Moon (Strawberry) ♐ (🜂)
+UID:9ee1bf23-8ae4-4d22-bbf8-f50c94b0229c@9ee1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\n\nThis Full Moon is traditionally called the 'Harvest Moon' for the month of September. The Harvest Moon illuminates the fields during the critical time of reaping crops\, allowing farmers to work late into the night. It symbolizes hard work\, fulfillment\, and the rewards of dedication. This moon is celebrated as a time of gathering and preparing for the winter ahead.\n\nSignificance: A time of culmination\, celebration\, and achieving clarity.\n\nMeaning: A time of heightened emotions\, clarity\, and reflection.\n\nZodiac: Aquarius ♒ [🜁]\nAlignment: Galactic Center\n\nDescription: Fixed Air ■ 💨\nWhen the Moon is in Aquarius\, innovation\, independence\, and humanitarian ideals are amplified. This is a time for thinking outside the box\, exploring unconventional ideas\, and fostering community. Aquarius’ influence encourages intellectual curiosity and progressive thinking\, though it may also feel detached emotionally.
+DTSTART:20460915T063927Z
+SUMMARY:🌕 Full Moon (Harvest) ♒ [🜁]
+UID:9fc8533b-42ce-4b22-8e5b-cf7cc63dc2ec@9fc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The New Moon marks the beginning of the lunar cycle.\n\nThe Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\n\nSignificance: A time for setting intentions and new beginnings.\n\nMeaning: Represents a fresh start\, reflection\, and inward focus.\n\nZodiac: Sagittarius ♐ (🜂)\nAlignment: Galactic Center\n\nDescription: Mutable Fire ● 🔥\nWhen the Moon is in Sagittarius\, optimism\, adventure\, and philosophical exploration are highlighted. It’s a time for expanding horizons\, seeking knowledge\, and embracing freedom. Sagittarius’ fiery energy inspires enthusiasm and growth\, though it may also bring restlessness.
+DTSTART:20461227T103859Z
+SUMMARY:🌑 New Moon ♐ (🜂)
+UID:57926c12-41f0-4963-b1cd-30fc0545d27b@5792.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The First Quarter Moon occurs when half the Moon is illuminated\, and the other half remains dark.\n\nThis phase is a time of action\, decisions\, and challenges as you work toward your goals.\n\nSignificance: Represents a period of growth and progress in many traditions.\n\nMeaning: A time to confront obstacles and make important choices\, paving the way for success.\n\nZodiac: Gemini ♊ (🜁)\nAlignment: Galactic Center\n\nDescription: Mutable Air ● 💨\nWhen the Moon is in Gemini\, communication\, curiosity\, and mental agility are heightened. This is an excellent time for gathering information\, exploring new ideas\, and socializing. The adaptable energy of Gemini can bring variety and excitement\, though it may scatter focus.
+DTSTART:20460414T032137Z
+SUMMARY:🌓 1st Quarter Moon ♊ (🜁)
+UID:09ed654f-231f-4278-bf21-cc0a7ee45abe@09ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The First Quarter Moon occurs when half the Moon is illuminated\, and the other half remains dark.\n\nThis phase is a time of action\, decisions\, and challenges as you work toward your goals.\n\nSignificance: Represents a period of growth and progress in many traditions.\n\nMeaning: A time to confront obstacles and make important choices\, paving the way for success.\n\nZodiac: Scorpio ♏ [🜄]\nAlignment: Galactic Center\n\nDescription: Fixed Water ■ 💧\nThe Moon in Scorpio brings intense\, transformative\, and deeply emotional energy. This is a time for diving into hidden truths\, exploring passions\, and embracing change. Scorpio’s influence encourages emotional depth and resilience but may also amplify secrecy or possessiveness.
+DTSTART:20460907T090705Z
+SUMMARY:🌓 1st Quarter Moon ♏ [🜄]
+UID:0df0691c-532b-4eb6-8dae-f9818b799591@0df0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The First Quarter Moon occurs when half the Moon is illuminated\, and the other half remains dark.\n\nThis phase is a time of action\, decisions\, and challenges as you work toward your goals.\n\nSignificance: Represents a period of growth and progress in many traditions.\n\nMeaning: A time to confront obstacles and make important choices\, paving the way for success.\n\nZodiac: Sagittarius ♐ (🜂)\nAlignment: Galactic Center\n\nDescription: Mutable Fire ● 🔥\nWhen the Moon is in Sagittarius\, optimism\, adventure\, and philosophical exploration are highlighted. It’s a time for expanding horizons\, seeking knowledge\, and embracing freedom. Sagittarius’ fiery energy inspires enthusiasm and growth\, though it may also bring restlessness.
+DTSTART:20461006T204111Z
+SUMMARY:🌓 1st Quarter Moon ♐ (🜂)
+UID:46b8087f-77aa-4207-9b6f-fd0202d7aa38@46b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Third Quarter Moon occurs when half the Moon is illuminated as it wanes toward the New Moon.\n\nThis phase symbolizes release\, reflection\, and preparation for the next cycle.\n\nSignificance: Often associated with closure and letting go of what no longer serves you.\n\nMeaning: A period of introspection\, evaluation\, and setting the stage for new beginnings.\n\nZodiac: Leo ♌ [🜂]\nAlignment: Galactic Center\n\nDescription: Fixed Fire ■ 🔥\nWhen the Moon is in Leo\, creativity\, self-expression\, and confidence are emphasized. It’s a time for shining brightly\, taking pride in achievements\, and seeking recognition. Leo’s influence inspires warmth and generosity\, but it may also amplify a need for attention.
+DTSTART:20461121T061030Z
+SUMMARY:🌗 3rd Quarter Moon ♌ [🜂]
+UID:87ae3a16-3ecc-4478-8ed6-da20b676416e@87ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The First Quarter Moon occurs when half the Moon is illuminated\, and the other half remains dark.\n\nThis phase is a time of action\, decisions\, and challenges as you work toward your goals.\n\nSignificance: Represents a period of growth and progress in many traditions.\n\nMeaning: A time to confront obstacles and make important choices\, paving the way for success.\n\nZodiac: Taurus ♉ [🜃]\nAlignment: Galactic Center\n\nDescription: Fixed Earth ■ ⛰️\nThe Moon in Taurus brings a grounded\, steady\, and sensual energy. It is a time to focus on comfort\, stability\, and enjoying the pleasures of life. Taurus' connection to the Earth helps anchor emotions\, encouraging patience and long-term planning.
+DTSTART:20460315T171255Z
+SUMMARY:🌓 1st Quarter Moon ♉ [🜃]
+UID:44707ae5-b895-4a11-9bdc-d92f14bdfd94@4470.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Third Quarter Moon occurs when half the Moon is illuminated as it wanes toward the New Moon.\n\nThis phase symbolizes release\, reflection\, and preparation for the next cycle.\n\nSignificance: Often associated with closure and letting go of what no longer serves you.\n\nMeaning: A period of introspection\, evaluation\, and setting the stage for new beginnings.\n\nZodiac: Cancer ♋ <🜄>\nAlignment: Galactic Center\n\nDescription: Cardinal Water ▲ 💧\nThe Moon feels at home in Cancer\, amplifying emotions\, intuition\, and the need for nurturing. This is a time for focusing on home\, family\, and emotional well-being. Cancer’s protective energy encourages self-care and deep connections\, but it may also bring sensitivity or moodiness.
+DTSTART:20461022T200749Z
+SUMMARY:🌗 3rd Quarter Moon ♋ <🜄>
+UID:7dd84880-6918-4991-b7e8-6cd1f1098abe@7dd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Third Quarter Moon occurs when half the Moon is illuminated as it wanes toward the New Moon.\n\nThis phase symbolizes release\, reflection\, and preparation for the next cycle.\n\nSignificance: Often associated with closure and letting go of what no longer serves you.\n\nMeaning: A period of introspection\, evaluation\, and setting the stage for new beginnings.\n\nZodiac: Aquarius ♒ [🜁]\nAlignment: Galactic Center\n\nDescription: Fixed Air ■ 💨\nWhen the Moon is in Aquarius\, innovation\, independence\, and humanitarian ideals are amplified. This is a time for thinking outside the box\, exploring unconventional ideas\, and fostering community. Aquarius’ influence encourages intellectual curiosity and progressive thinking\, though it may also feel detached emotionally.
+DTSTART:20460527T170641Z
+SUMMARY:🌗 3rd Quarter Moon ♒ [🜁]
+UID:f5cce59a-9bf5-4b3e-b3d5-4294c0f718a3@f5cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\n\nThis Full Moon is traditionally called the 'Beaver Moon' for the month of November. The Beaver Moon reflects the industrious nature of beavers building their winter dams\, a reminder of the importance of preparation and community. It symbolizes resilience\, resourcefulness\, and working together to create security for the future. This moon often carries a sense of determination and focus.\n\nSignificance: A time of culmination\, celebration\, and achieving clarity.\n\nMeaning: A time of heightened emotions\, clarity\, and reflection.\n\nZodiac: Aries ♈ <🜂>\nAlignment: Galactic Center\n\nDescription: Cardinal Fire ▲ 🔥\nWhen the Moon is in Aries\, its energy is bold\, impulsive\, and action-oriented. This is a time for initiating projects\, taking risks\, and embracing dynamic energy. The fiery influence of Aries enhances courage and determination but may also heighten impatience or restlessness.
+DTSTART:20461113T170433Z
+SUMMARY:🌕 Full Moon (Beaver) ♈ <🜂>
+UID:13105f6e-2124-4efb-89d5-9f83d0a1a681@1310.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Third Quarter Moon occurs when half the Moon is illuminated as it wanes toward the New Moon.\n\nThis phase symbolizes release\, reflection\, and preparation for the next cycle.\n\nSignificance: Often associated with closure and letting go of what no longer serves you.\n\nMeaning: A period of introspection\, evaluation\, and setting the stage for new beginnings.\n\nZodiac: Gemini ♊ (🜁)\nAlignment: Galactic Center\n\nDescription: Mutable Air ● 💨\nWhen the Moon is in Gemini\, communication\, curiosity\, and mental agility are heightened. This is an excellent time for gathering information\, exploring new ideas\, and socializing. The adaptable energy of Gemini can bring variety and excitement\, though it may scatter focus.
+DTSTART:20460923T081549Z
+SUMMARY:🌗 3rd Quarter Moon ♊ (🜁)
+UID:158fa932-17b9-45f1-bba7-3696350dc04d@158f.org
 END:VEVENT
 END:VCALENDAR

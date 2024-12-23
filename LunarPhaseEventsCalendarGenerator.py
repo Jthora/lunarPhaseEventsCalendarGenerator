@@ -41,34 +41,46 @@ CULTURAL_MOON_NAMES = {
 
 # Cultural significance for Full Moons
 CULTURAL_SIGNIFICANCES = {
-    "Wolf Moon": "Often associated with howling wolves during the cold winter months.",
-    "Snow Moon": "Reflects the heavy snowfalls typically experienced in February.",
-    "Worm Moon": "Named for the reappearance of earthworms as the ground thaws in spring.",
-    "Pink Moon": "Named after pink wildflowers, signaling spring blooms.",
-    "Flower Moon": "Marks the abundance of blooming flowers in May.",
-    "Strawberry Moon": "Named for the strawberry harvest season.",
-    "Buck Moon": "Represents the time when antlers of young bucks are in full growth.",
-    "Sturgeon Moon": "Named for the large sturgeon fish caught in August.",
-    "Harvest Moon": "Associated with the time of harvesting crops in early autumn.",
-    "Hunter's Moon": "Traditionally marks the time for hunting game before winter.",
-    "Beaver Moon": "Named for the time beavers build their winter dams.",
-    "Cold Moon": "Reflects the cold, long nights of December."
+    "Wolf": "The Wolf Moon is deeply tied to the haunting howls of wolves that echo through the cold winter air, symbolizing survival and community in harsh conditions. It serves as a reminder of the strong bonds within wolf packs and the importance of perseverance. This moon has often inspired tales and myths of transformation and primal instincts.",
+    "Snow": "The Snow Moon represents the heaviest snowfalls of the year, blanketing the earth in quiet stillness. It reflects the challenges of enduring the harshness of winter while finding beauty in the frozen landscapes. Many cultures see this moon as a time to gather together and share warmth and stories by the fire.",
+    "Worm": "The Worm Moon signifies the thawing earth as spring approaches, with earthworms emerging to rejuvenate the soil. This moon celebrates the return of fertility and the cycles of renewal, marking a time for planting and new beginnings. Its name reflects a connection to the rhythms of nature and the changing of the seasons.",
+    "Pink": "The Pink Moon gets its name from the first vibrant blooms of wild pink phlox, heralding the arrival of spring. It symbolizes renewal, growth, and the awakening of life after the cold winter months. This moon is often associated with hope, beauty, and the reemergence of color in the natural world.",
+    "Flower": "The Flower Moon celebrates the abundance of blooming flowers in May, a time of lush growth and beauty. It embodies the energy of fertility, creativity, and the flourishing of life. Many cultures see this moon as a time to honor the earth’s generosity and participate in rituals of gratitude.",
+    "Strawberry": "The Strawberry Moon marks the peak of the strawberry harvest, bringing sweetness and nourishment to summer. It symbolizes abundance, prosperity, and the rewards of hard work. This moon is often celebrated with gatherings and feasts, reflecting the joy of nature’s bounty.",
+    "Buck": "The Buck Moon signifies the growth of antlers on young bucks, a powerful symbol of strength and vitality. It reflects a time of personal development, preparation, and stepping into one's power. This moon has long been associated with the wild energy of nature and the cycle of maturity.",
+    "Sturgeon": "The Sturgeon Moon is named for the large sturgeon fish caught in abundance during August, a crucial time for survival in many communities. It highlights the relationship between humanity and water, symbolizing sustenance and the gifts of the rivers and lakes. This moon is often linked to themes of gratitude and interdependence.",
+    "Harvest": "The Harvest Moon illuminates the fields during the critical time of reaping crops, allowing farmers to work late into the night. It symbolizes hard work, fulfillment, and the rewards of dedication. This moon is celebrated as a time of gathering and preparing for the winter ahead.",
+    "Hunter's": "The Hunter's Moon marks the season of hunting game, providing resources for the harsh months of winter. It is a symbol of self-reliance, strategy, and the balance between giving and taking from nature. This moon has inspired many traditional rituals and celebrations of the hunt.",
+    "Beaver": "The Beaver Moon reflects the industrious nature of beavers building their winter dams, a reminder of the importance of preparation and community. It symbolizes resilience, resourcefulness, and working together to create security for the future. This moon often carries a sense of determination and focus.",
+    "Cold": "The Cold Moon marks the longest nights of the year and the deep chill of December, symbolizing endurance and reflection. It invites introspection and quiet moments to appreciate the stillness of winter. This moon is a time for rest and finding inner warmth amidst the season’s challenges."
 }
 
 # Zodiac signs, emoji, and descriptions
 ZODIAC_SIGNS = [
-    ("Aries", "♈ <🜂>", "Fiery, passionate, and driven."),
-    ("Taurus", "♉ [🜃]", "Grounded, practical, and loyal."),
-    ("Gemini", "♊ (🜁)", "Curious, communicative, and versatile."),
-    ("Cancer", "♋ <🜄>", "Emotional, nurturing, and protective."),
-    ("Leo", "♌ [🜂]", "Confident, creative, and bold."),
-    ("Virgo", "♍ (🜃)", "Detail-oriented, analytical, and helpful."),
-    ("Libra", "♎ <🜁>", "Charming, harmonious, and diplomatic."),
-    ("Scorpio", "♏ [🜄]", "Intense, transformative, and magnetic."),
-    ("Sagittarius", "♐ (🜂)", "Adventurous, philosophical, and optimistic."),
-    ("Capricorn", "♑ <🜃>", "Disciplined, ambitious, and practical."),
-    ("Aquarius", "♒ [🜁]", "Innovative, independent, and humanitarian."),
-    ("Pisces", "♓ (🜄)", "Dreamy, intuitive, and compassionate.")
+    ("Aries", "♈ <🜂>", 
+     "Cardinal Fire ▲ 🔥\nWhen the Moon is in Aries, its energy is bold, impulsive, and action-oriented. This is a time for initiating projects, taking risks, and embracing dynamic energy. The fiery influence of Aries enhances courage and determination but may also heighten impatience or restlessness."),
+    ("Taurus", "♉ [🜃]", 
+     "Fixed Earth ■ ⛰️\nThe Moon in Taurus brings a grounded, steady, and sensual energy. It is a time to focus on comfort, stability, and enjoying the pleasures of life. Taurus' connection to the Earth helps anchor emotions, encouraging patience and long-term planning."),
+    ("Gemini", "♊ (🜁)", 
+     "Mutable Air ● 💨\nWhen the Moon is in Gemini, communication, curiosity, and mental agility are heightened. This is an excellent time for gathering information, exploring new ideas, and socializing. The adaptable energy of Gemini can bring variety and excitement, though it may scatter focus."),
+    ("Cancer", "♋ <🜄>", 
+     "Cardinal Water ▲ 💧\nThe Moon feels at home in Cancer, amplifying emotions, intuition, and the need for nurturing. This is a time for focusing on home, family, and emotional well-being. Cancer’s protective energy encourages self-care and deep connections, but it may also bring sensitivity or moodiness."),
+    ("Leo", "♌ [🜂]", 
+     "Fixed Fire ■ 🔥\nWhen the Moon is in Leo, creativity, self-expression, and confidence are emphasized. It’s a time for shining brightly, taking pride in achievements, and seeking recognition. Leo’s influence inspires warmth and generosity, but it may also amplify a need for attention."),
+    ("Virgo", "♍ (🜃)", 
+     "Mutable Earth ● ⛰️\nThe Moon in Virgo enhances focus on details, organization, and practical solutions. This is a time for analyzing emotions and finding ways to be of service to others. Virgo’s grounded energy promotes self-improvement and mindfulness, though it may also bring self-criticism."),
+    ("Libra", "♎ <🜁>", 
+     "Cardinal Air ▲ 💨\nWhen the Moon is in Libra, balance, harmony, and relationships take center stage. This is an ideal time for diplomacy, collaboration, and creating beauty in one’s environment. Libra’s airy energy fosters a desire for fairness and connection, though it may also lead to indecisiveness."),
+    ("Scorpio", "♏ [🜄]", 
+     "Fixed Water ■ 💧\nThe Moon in Scorpio brings intense, transformative, and deeply emotional energy. This is a time for diving into hidden truths, exploring passions, and embracing change. Scorpio’s influence encourages emotional depth and resilience but may also amplify secrecy or possessiveness."),
+    ("Sagittarius", "♐ (🜂)", 
+     "Mutable Fire ● 🔥\nWhen the Moon is in Sagittarius, optimism, adventure, and philosophical exploration are highlighted. It’s a time for expanding horizons, seeking knowledge, and embracing freedom. Sagittarius’ fiery energy inspires enthusiasm and growth, though it may also bring restlessness."),
+    ("Capricorn", "♑ <🜃>", 
+     "Cardinal Earth ▲ ⛰️\nThe Moon in Capricorn emphasizes discipline, ambition, and responsibility. This is a time for setting long-term goals, focusing on work, and achieving practical results. Capricorn’s grounded energy supports perseverance and structure but may also feel emotionally reserved."),
+    ("Aquarius", "♒ [🜁]", 
+     "Fixed Air ■ 💨\nWhen the Moon is in Aquarius, innovation, independence, and humanitarian ideals are amplified. This is a time for thinking outside the box, exploring unconventional ideas, and fostering community. Aquarius’ influence encourages intellectual curiosity and progressive thinking, though it may also feel detached emotionally."),
+    ("Pisces", "♓ (🜄)", 
+     "Mutable Water ● 💧\nThe Moon in Pisces enhances intuition, dreaminess, and compassion. This is a time for creativity, spiritual exploration, and connecting with the deeper currents of emotion. Pisces’ watery energy promotes empathy and imagination but may also bring escapism or confusion.")
 ]
 
 # Constants
@@ -177,12 +189,17 @@ def calculate_lunar_phases(year, eph, timescale, galacticCenter_on=True):
         logging.error(f"Error calculating lunar phases for year {year}: {e}", exc_info=True)
         return []
 
-def create_ics_file(phases, year, timezone):
+def create_ics_file(phases, year, timezone, galacticCenter_on=True):
     """
     Create an ICS file from lunar phases and save it in the output directory.
     """
     try:
         calendar = Calendar()
+
+        alignment = "Galactic Center"
+        if galacticCenter_on!=True:
+            alignment = "Western Occult"
+
 
         for phase in phases:
             phase_datetime = phase["datetime"]
@@ -217,34 +234,44 @@ def create_ics_file(phases, year, timezone):
             # Enhanced descriptions
             if "Full Moon" in phase_name:
                 description = (
-                    "The Full Moon occurs when the Moon is fully illuminated by the Sun, marking the midpoint of the lunar cycle.\n"
-                    + "This Full Moon is traditionally called the '" + cultural_name + "' for the month of "
-                    + localized_datetime.strftime('%B') + ".\n"
-                    + "Cultural Significance: " + cultural_significance + "\n"
-                    + "Astrological Significance: A time of heightened emotions, clarity, and reflection."
-                    + "Astrological Position: The Moon is in " + zodiac_name + " " + zodiac_emoji + ".\n"
-                    + "Astrological Significance: " + zodiac_description + "\n"
+                    "The Full Moon occurs when the Moon is fully illuminated by the Sun, marking the midpoint of the lunar cycle.\n\n"
+                    + "This Full Moon is traditionally called the '" + cultural_name + " Moon' for the month of "
+                    + localized_datetime.strftime('%B') + ". " + cultural_significance + "\n\n"
+                    + "Significance: A time of culmination, celebration, and achieving clarity.\n\n"
+                    + "Meaning: A time of heightened emotions, clarity, and reflection.\n\n"
+                    + "Zodiac: " + zodiac_name + " " + zodiac_emoji + "\n"
+                    + "Alignment: " + alignment + "\n\n"
+                    + "Description: " + zodiac_description
                 )
             elif "New Moon" in phase_name:
                 description = (
-                    "The New Moon marks the beginning of the lunar cycle. "
-                    + "The Moon is positioned between the Earth and the Sun, making it invisible from Earth.\n"
-                    + "Cultural Significance: A time for setting intentions and new beginnings.\n"
-                    + "Astrological Significance: Represents a fresh start, reflection, and inward focus."
+                    "The New Moon marks the beginning of the lunar cycle.\n\n"
+                    + "The Moon is positioned between the Earth and the Sun, making it invisible from Earth.\n\n"
+                    + "Significance: A time for setting intentions and new beginnings.\n\n"
+                    + "Meaning: Represents a fresh start, reflection, and inward focus.\n\n"
+                    + "Zodiac: " + zodiac_name + " " + zodiac_emoji + "\n"
+                    + "Alignment: " + alignment + "\n\n"
+                    + "Description: " + zodiac_description
                 )
-            elif "First Quarter" in phase_name:
+            elif "1st Quarter" in phase_name:
                 description = (
-                    "The First Quarter Moon occurs when half the Moon is illuminated, and the other half remains dark.\n"
-                    + "This phase is a time of action, decisions, and challenges as you work toward your goals.\n"
-                    + "Cultural Significance: Represents a period of growth and progress in many traditions.\n"
-                    + "Astrological Significance: A time to confront obstacles and make important choices, paving the way for success."
+                    "The First Quarter Moon occurs when half the Moon is illuminated, and the other half remains dark.\n\n"
+                    + "This phase is a time of action, decisions, and challenges as you work toward your goals.\n\n"
+                    + "Significance: Represents a period of growth and progress in many traditions.\n\n"
+                    + "Meaning: A time to confront obstacles and make important choices, paving the way for success.\n\n"
+                    + "Zodiac: " + zodiac_name + " " + zodiac_emoji + "\n"
+                    + "Alignment: " + alignment + "\n\n"
+                    + "Description: " + zodiac_description
                 )
-            elif "Third Quarter" in phase_name:
+            elif "3rd Quarter" in phase_name:
                 description = (
-                    "The Third Quarter Moon occurs when half the Moon is illuminated as it wanes toward the New Moon.\n"
-                    + "This phase symbolizes release, reflection, and preparation for the next cycle.\n"
-                    + "Cultural Significance: Often associated with closure and letting go of what no longer serves you.\n"
-                    + "Astrological Significance: A period of introspection, evaluation, and setting the stage for new beginnings."
+                    "The Third Quarter Moon occurs when half the Moon is illuminated as it wanes toward the New Moon.\n\n"
+                    + "This phase symbolizes release, reflection, and preparation for the next cycle.\n\n"
+                    + "Significance: Often associated with closure and letting go of what no longer serves you.\n\n"
+                    + "Meaning: A period of introspection, evaluation, and setting the stage for new beginnings.\n\n"
+                    + "Zodiac: " + zodiac_name + " " + zodiac_emoji + "\n"
+                    + "Alignment: " + alignment + "\n\n"
+                    + "Description: " + zodiac_description
                 )
             else:
                 description = (
@@ -302,7 +329,7 @@ def main():
         galacticCenter_on = (args.galactic_center == "on")
         phases = calculate_lunar_phases(year, eph, timescale, galacticCenter_on)
         if phases:
-            create_ics_file(phases, year, "UTC")
+            create_ics_file(phases, year, "UTC", galacticCenter_on)
         else:
             print(f"Failed to generate calendar for year {year}. Check {LOG_FILE} for details.")
 
