@@ -2,303 +2,303 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:The First Quarter Moon occurs when half the Moon is illuminated\, and the other half remains dark.\nThis phase is a time of action\, decisions\, and challenges as you work toward your goals.\nCultural Significance: Represents a period of growth and progress in many traditions.\nAstrological Significance: A time to confront obstacles and make important choices\, paving the way for success.
-DTSTART:20390501T140725Z
-SUMMARY:🌓 First Quarter Moon ♋
-UID:da069fc2-bfc3-4cba-bdc7-173d3b2d4aba@da06.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The New Moon marks the beginning of the lunar cycle. The Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\nCultural Significance: A time for setting intentions and new beginnings.\nAstrological Significance: Represents a fresh start\, reflection\, and inward focus.
-DTSTART:20390819T205035Z
-SUMMARY:🌑 New Moon ♋
-UID:8c30f129-22f0-4fb3-aaa3-428411e77738@8c30.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The New Moon marks the beginning of the lunar cycle. The Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\nCultural Significance: A time for setting intentions and new beginnings.\nAstrological Significance: Represents a fresh start\, reflection\, and inward focus.
-DTSTART:20390918T082304Z
-SUMMARY:🌑 New Moon ♌
-UID:ec007806-068a-423e-b7cd-cba57b650e58@ec00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Buck Moon' for the month of July.\nCultural Significance: Represents the time when antlers of young bucks are in full growth.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Sagittarius ♐.\nAstrological Significance: Adventurous\, philosophical\, and optimistic.\n
-DTSTART:20390706T020332Z
-SUMMARY:🌕 Full Moon (Buck Moon) ♐
-UID:37da7e94-d095-4f3c-a257-d256bf62a6bd@37da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Third Quarter Moon occurs when half the Moon is illuminated as it wanes toward the New Moon.\nThis phase symbolizes release\, reflection\, and preparation for the next cycle.\nCultural Significance: Often associated with closure and letting go of what no longer serves you.\nAstrological Significance: A period of introspection\, evaluation\, and setting the stage for new beginnings.
-DTSTART:20390910T134541Z
-SUMMARY:🌗 Third Quarter Moon ♉
-UID:3e6c4eb1-61ac-4ed7-bdcb-c087ff73ef09@3e6c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The First Quarter Moon occurs when half the Moon is illuminated\, and the other half remains dark.\nThis phase is a time of action\, decisions\, and challenges as you work toward your goals.\nCultural Significance: Represents a period of growth and progress in many traditions.\nAstrological Significance: A time to confront obstacles and make important choices\, paving the way for success.
-DTSTART:20391024T115036Z
-SUMMARY:🌓 First Quarter Moon ♑
-UID:4ab142d5-cedb-460d-9b5e-72458bc8ebc2@4ab1.org
+DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Beaver' for the month of November.\nCultural Significance: No cultural significance available.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Taurus ♉ [🜃].\nAstrological Significance: Grounded\, practical\, and loyal.\n
+DTSTART:20391130T164937Z
+SUMMARY:🌕 Full Moon (Beaver) ♉ [🜃]
+UID:6e47a228-ad42-4c21-becb-7aa632b46c16@6e47.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The New Moon marks the beginning of the lunar cycle. The Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\nCultural Significance: A time for setting intentions and new beginnings.\nAstrological Significance: Represents a fresh start\, reflection\, and inward focus.
 DTSTART:20390721T075408Z
-SUMMARY:🌑 New Moon ♋
-UID:79c46533-fcda-4cbd-8051-e5f5be198a5b@79c4.org
+SUMMARY:🌑 New Moon ♋ <🜄>
+UID:29b97a65-bfa5-47d5-8b6c-52ae7f8da3a1@29b9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The New Moon marks the beginning of the lunar cycle. The Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\nCultural Significance: A time for setting intentions and new beginnings.\nAstrological Significance: Represents a fresh start\, reflection\, and inward focus.
-DTSTART:20391215T163205Z
-SUMMARY:🌑 New Moon ♏
-UID:f5324e4d-b85c-4dff-8f3c-879ef066b7f5@f532.org
+DESCRIPTION:The 🌓 1st Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
+DTSTART:20391222T100142Z
+SUMMARY:🌓 1st Quarter Moon ♓ (🜄)
+UID:5fea3b09-6ab1-4c33-9181-4359bd1493a1@5fea.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The Third Quarter Moon occurs when half the Moon is illuminated as it wanes toward the New Moon.\nThis phase symbolizes release\, reflection\, and preparation for the next cycle.\nCultural Significance: Often associated with closure and letting go of what no longer serves you.\nAstrological Significance: A period of introspection\, evaluation\, and setting the stage for new beginnings.
-DTSTART:20390613T141632Z
-SUMMARY:🌗 Third Quarter Moon ♒
-UID:82b1cb6b-b23c-4f27-b105-d0f513236225@82b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The First Quarter Moon occurs when half the Moon is illuminated\, and the other half remains dark.\nThis phase is a time of action\, decisions\, and challenges as you work toward your goals.\nCultural Significance: Represents a period of growth and progress in many traditions.\nAstrological Significance: A time to confront obstacles and make important choices\, paving the way for success.
-DTSTART:20390629T111721Z
-SUMMARY:🌓 First Quarter Moon ♍
-UID:f6acc043-6e92-4eda-ba88-f3ee1e9dceca@f6ac.org
+DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Hunter's' for the month of October.\nCultural Significance: No cultural significance available.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Pisces ♓ (🜄).\nAstrological Significance: Dreamy\, intuitive\, and compassionate.\n
+DTSTART:20391002T072321Z
+SUMMARY:🌕 Full Moon (Hunter's) ♓ (🜄)
+UID:0dee5e02-c592-475e-b192-a53b767be5f3@0dee.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The New Moon marks the beginning of the lunar cycle. The Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\nCultural Significance: A time for setting intentions and new beginnings.\nAstrological Significance: Represents a fresh start\, reflection\, and inward focus.
 DTSTART:20390124T133609Z
-SUMMARY:🌑 New Moon ♑
-UID:dfc9167a-c0af-4d29-b6b5-3e802bd91678@dfc9.org
+SUMMARY:🌑 New Moon ♑ <🜃>
+UID:7d7fa8bf-7d11-4374-95b0-f48371a32eb6@7d7f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The First Quarter Moon occurs when half the Moon is illuminated\, and the other half remains dark.\nThis phase is a time of action\, decisions\, and challenges as you work toward your goals.\nCultural Significance: Represents a period of growth and progress in many traditions.\nAstrological Significance: A time to confront obstacles and make important choices\, paving the way for success.
-DTSTART:20390826T231627Z
-SUMMARY:🌓 First Quarter Moon ♏
-UID:d7f963fd-911e-48d2-80cf-c822871c2277@d7f9.org
+DESCRIPTION:The 🌓 1st Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
+DTSTART:20390401T215444Z
+SUMMARY:🌓 1st Quarter Moon ♊ (🜁)
+UID:ecc61a62-b69b-49b4-8753-c431eadb569f@ecc6.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Hunter's Moon' for the month of October.\nCultural Significance: Traditionally marks the time for hunting game before winter.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Pisces ♓.\nAstrological Significance: Dreamy\, intuitive\, and compassionate.\n
-DTSTART:20391002T072321Z
-SUMMARY:🌕 Full Moon (Hunter's Moon) ♓
-UID:19cb9393-9ae7-4a3e-a474-f8386f2f12fd@19cb.org
+DESCRIPTION:The 🌗 3rd Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
+DTSTART:20390216T023603Z
+SUMMARY:🌗 3rd Quarter Moon ♏ [🜄]
+UID:ef6e1586-027a-483a-8212-89f1bd9b495e@ef6e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The First Quarter Moon occurs when half the Moon is illuminated\, and the other half remains dark.\nThis phase is a time of action\, decisions\, and challenges as you work toward your goals.\nCultural Significance: Represents a period of growth and progress in many traditions.\nAstrological Significance: A time to confront obstacles and make important choices\, paving the way for success.
-DTSTART:20391122T211643Z
-SUMMARY:🌓 First Quarter Moon ♒
-UID:ebdcff3f-2164-40c3-b141-17f8d7e6ae0b@ebdc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Sturgeon Moon' for the month of August.\nCultural Significance: Named for the large sturgeon fish caught in August.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Capricorn ♑.\nAstrological Significance: Disciplined\, ambitious\, and practical.\n
-DTSTART:20390804T095642Z
-SUMMARY:🌕 Full Moon (Sturgeon Moon) ♑
-UID:37a955e8-72d9-467e-be25-aa89e2f6e759@37a9.org
+DESCRIPTION:The 🌗 3rd Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
+DTSTART:20390415T180703Z
+SUMMARY:🌗 3rd Quarter Moon ♐ (🜂)
+UID:2576c3a1-823c-4534-9914-06eb0331064d@2576.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The New Moon marks the beginning of the lunar cycle. The Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\nCultural Significance: A time for setting intentions and new beginnings.\nAstrological Significance: Represents a fresh start\, reflection\, and inward focus.
 DTSTART:20391017T190904Z
-SUMMARY:🌑 New Moon ♍
-UID:fcfaa491-c507-47e6-b659-4e1d6a590c54@fcfa.org
+SUMMARY:🌑 New Moon ♍ (🜃)
+UID:f2cd8f1c-15d0-49b3-95d1-a1d041ce0f57@f2cd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Pink Moon' for the month of April.\nCultural Significance: Named after pink wildflowers\, signaling spring blooms.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Virgo ♍.\nAstrological Significance: Detail-oriented\, analytical\, and helpful.\n
-DTSTART:20390409T025249Z
-SUMMARY:🌕 Full Moon (Pink Moon) ♍
-UID:6a0eb858-771a-4186-8e82-4af1538e2948@6a0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Third Quarter Moon occurs when half the Moon is illuminated as it wanes toward the New Moon.\nThis phase symbolizes release\, reflection\, and preparation for the next cycle.\nCultural Significance: Often associated with closure and letting go of what no longer serves you.\nAstrological Significance: A period of introspection\, evaluation\, and setting the stage for new beginnings.
-DTSTART:20391109T034607Z
-SUMMARY:🌗 Third Quarter Moon ♋
-UID:91e44a3e-1750-4c36-8f38-093264177f51@91e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Beaver Moon' for the month of November.\nCultural Significance: Named for the time beavers build their winter dams.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Taurus ♉.\nAstrological Significance: Grounded\, practical\, and loyal.\n
-DTSTART:20391130T164937Z
-SUMMARY:🌕 Full Moon (Beaver Moon) ♉
-UID:16619a18-8334-4f60-8f01-bd0ae3ee2000@1661.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The New Moon marks the beginning of the lunar cycle. The Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\nCultural Significance: A time for setting intentions and new beginnings.\nAstrological Significance: Represents a fresh start\, reflection\, and inward focus.
-DTSTART:20390423T093448Z
-SUMMARY:🌑 New Moon ♈
-UID:41e38840-e4a2-43b6-847f-55f2482a2064@41e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Third Quarter Moon occurs when half the Moon is illuminated as it wanes toward the New Moon.\nThis phase symbolizes release\, reflection\, and preparation for the next cycle.\nCultural Significance: Often associated with closure and letting go of what no longer serves you.\nAstrological Significance: A period of introspection\, evaluation\, and setting the stage for new beginnings.
-DTSTART:20391208T204437Z
-SUMMARY:🌗 Third Quarter Moon ♌
-UID:d3c2fb40-bf0a-4835-92f5-69299d683fc5@d3c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The New Moon marks the beginning of the lunar cycle. The Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\nCultural Significance: A time for setting intentions and new beginnings.\nAstrological Significance: Represents a fresh start\, reflection\, and inward focus.
-DTSTART:20390523T013804Z
-SUMMARY:🌑 New Moon ♉
-UID:2679d842-b86b-4809-b667-56d3348fb4c3@2679.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Hunter's Moon' for the month of October.\nCultural Significance: Traditionally marks the time for hunting game before winter.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Aries ♈.\nAstrological Significance: Fiery\, passionate\, and driven.\n
-DTSTART:20391031T223619Z
-SUMMARY:🌕 Full Moon (Hunter's Moon) ♈
-UID:191e6567-8980-4814-8252-ac1a9e41e9fe@191e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Third Quarter Moon occurs when half the Moon is illuminated as it wanes toward the New Moon.\nThis phase symbolizes release\, reflection\, and preparation for the next cycle.\nCultural Significance: Often associated with closure and letting go of what no longer serves you.\nAstrological Significance: A period of introspection\, evaluation\, and setting the stage for new beginnings.
-DTSTART:20391010T085932Z
-SUMMARY:🌗 Third Quarter Moon ♊
-UID:78bb448c-5672-40ba-9482-40ea4557d0bc@78bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The First Quarter Moon occurs when half the Moon is illuminated\, and the other half remains dark.\nThis phase is a time of action\, decisions\, and challenges as you work toward your goals.\nCultural Significance: Represents a period of growth and progress in many traditions.\nAstrological Significance: A time to confront obstacles and make important choices\, paving the way for success.
+DESCRIPTION:The 🌓 1st Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
 DTSTART:20390201T044511Z
-SUMMARY:🌓 First Quarter Moon ♈
-UID:07e27f0c-8a53-4b35-8786-34f95466e677@07e2.org
+SUMMARY:🌓 1st Quarter Moon ♈ <🜂>
+UID:13b9c5c6-bf09-40f6-a732-fdf208b7c02c@13b9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Flower Moon' for the month of May.\nCultural Significance: Marks the abundance of blooming flowers in May.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Libra ♎.\nAstrological Significance: Charming\, harmonious\, and diplomatic.\n
-DTSTART:20390508T112003Z
-SUMMARY:🌕 Full Moon (Flower Moon) ♎
-UID:d35a0d31-1458-453c-8012-80fc0ba80679@d35a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The First Quarter Moon occurs when half the Moon is illuminated\, and the other half remains dark.\nThis phase is a time of action\, decisions\, and challenges as you work toward your goals.\nCultural Significance: Represents a period of growth and progress in many traditions.\nAstrological Significance: A time to confront obstacles and make important choices\, paving the way for success.
-DTSTART:20390728T174946Z
-SUMMARY:🌓 First Quarter Moon ♎
-UID:a4a6dc28-2fa0-49f6-a900-53a0b63b2773@a4a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The New Moon marks the beginning of the lunar cycle. The Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\nCultural Significance: A time for setting intentions and new beginnings.\nAstrological Significance: Represents a fresh start\, reflection\, and inward focus.
-DTSTART:20390223T031734Z
-SUMMARY:🌑 New Moon ♒
-UID:19ffeb48-8b37-4563-801d-cc0698e96537@19ff.org
+DESCRIPTION:The 🌗 3rd Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
+DTSTART:20390515T031702Z
+SUMMARY:🌗 3rd Quarter Moon ♑ <🜃>
+UID:83bab2ed-a5f2-4685-aa05-a5796008ac1a@83ba.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The New Moon marks the beginning of the lunar cycle. The Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\nCultural Significance: A time for setting intentions and new beginnings.\nAstrological Significance: Represents a fresh start\, reflection\, and inward focus.
 DTSTART:20390324T175933Z
-SUMMARY:🌑 New Moon ♓
-UID:05e14cf8-e25c-455e-acfa-719d239bf423@05e1.org
+SUMMARY:🌑 New Moon ♓ (🜄)
+UID:a9b87025-d8ff-4e8d-87c6-14c49277f934@a9b8.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The Third Quarter Moon occurs when half the Moon is illuminated as it wanes toward the New Moon.\nThis phase symbolizes release\, reflection\, and preparation for the next cycle.\nCultural Significance: Often associated with closure and letting go of what no longer serves you.\nAstrological Significance: A period of introspection\, evaluation\, and setting the stage for new beginnings.
-DTSTART:20390713T033819Z
-SUMMARY:🌗 Third Quarter Moon ♓
-UID:6a478ff7-67fb-451b-950b-0509ebc298a7@6a47.org
+DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Wolf' for the month of January.\nCultural Significance: No cultural significance available.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Gemini ♊ (🜁).\nAstrological Significance: Curious\, communicative\, and versatile.\n
+DTSTART:20390110T114534Z
+SUMMARY:🌕 Full Moon (Wolf) ♊ (🜁)
+UID:68b4bc7d-d89e-4662-814a-835448724235@68b4.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The Third Quarter Moon occurs when half the Moon is illuminated as it wanes toward the New Moon.\nThis phase symbolizes release\, reflection\, and preparation for the next cycle.\nCultural Significance: Often associated with closure and letting go of what no longer serves you.\nAstrological Significance: A period of introspection\, evaluation\, and setting the stage for new beginnings.
-DTSTART:20390811T193601Z
-SUMMARY:🌗 Third Quarter Moon ♈
-UID:120c5d98-25a1-45f2-b998-4f6a76f3be3b@120c.org
+DESCRIPTION:The 🌓 1st Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
+DTSTART:20390925T045236Z
+SUMMARY:🌓 1st Quarter Moon ♐ (🜂)
+UID:8aa98f14-0100-4c7b-9ec1-c24125a4ac43@8aa9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The New Moon marks the beginning of the lunar cycle. The Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\nCultural Significance: A time for setting intentions and new beginnings.\nAstrological Significance: Represents a fresh start\, reflection\, and inward focus.
-DTSTART:20391116T054608Z
-SUMMARY:🌑 New Moon ♎
-UID:eb9c0b10-bc1e-4855-9d45-6cdcee8e2ae9@eb9c.org
+DTSTART:20391215T163205Z
+SUMMARY:🌑 New Moon ♏ [🜄]
+UID:1f221df8-da98-46e8-9973-a5ecf71dcd3f@1f22.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The Third Quarter Moon occurs when half the Moon is illuminated as it wanes toward the New Moon.\nThis phase symbolizes release\, reflection\, and preparation for the next cycle.\nCultural Significance: Often associated with closure and letting go of what no longer serves you.\nAstrological Significance: A period of introspection\, evaluation\, and setting the stage for new beginnings.
-DTSTART:20390117T184144Z
-SUMMARY:🌗 Third Quarter Moon ♎
-UID:58731fce-e010-4b76-bf47-b8076d1ddee2@5873.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Third Quarter Moon occurs when half the Moon is illuminated as it wanes toward the New Moon.\nThis phase symbolizes release\, reflection\, and preparation for the next cycle.\nCultural Significance: Often associated with closure and letting go of what no longer serves you.\nAstrological Significance: A period of introspection\, evaluation\, and setting the stage for new beginnings.
-DTSTART:20390415T180703Z
-SUMMARY:🌗 Third Quarter Moon ♐
-UID:d9862d51-438c-4252-a7ba-3f5722c5d818@d986.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Worm Moon' for the month of March.\nCultural Significance: Named for the reappearance of earthworms as the ground thaws in spring.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Leo ♌.\nAstrological Significance: Confident\, creative\, and bold.\n
-DTSTART:20390310T163502Z
-SUMMARY:🌕 Full Moon (Worm Moon) ♌
-UID:f6bf7660-90cc-4baf-a704-bfb1002688de@f6bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Third Quarter Moon occurs when half the Moon is illuminated as it wanes toward the New Moon.\nThis phase symbolizes release\, reflection\, and preparation for the next cycle.\nCultural Significance: Often associated with closure and letting go of what no longer serves you.\nAstrological Significance: A period of introspection\, evaluation\, and setting the stage for new beginnings.
-DTSTART:20390515T031702Z
-SUMMARY:🌗 Third Quarter Moon ♑
-UID:2448d5ab-efe7-428f-ba10-59b04ccab8ea@2448.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Harvest Moon' for the month of September.\nCultural Significance: Associated with the time of harvesting crops in early autumn.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Aquarius ♒.\nAstrological Significance: Innovative\, independent\, and humanitarian.\n
-DTSTART:20390902T192336Z
-SUMMARY:🌕 Full Moon (Harvest Moon) ♒
-UID:02d08450-f9a4-44f7-bd53-d341cf606364@02d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Cold Moon' for the month of December.\nCultural Significance: Reflects the cold\, long nights of December.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Gemini ♊.\nAstrological Significance: Curious\, communicative\, and versatile.\n
-DTSTART:20391230T123747Z
-SUMMARY:🌕 Full Moon (Cold Moon) ♊
-UID:b7f0b856-6f94-4c08-a8eb-d77bbbff711d@b7f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The First Quarter Moon occurs when half the Moon is illuminated\, and the other half remains dark.\nThis phase is a time of action\, decisions\, and challenges as you work toward your goals.\nCultural Significance: Represents a period of growth and progress in many traditions.\nAstrological Significance: A time to confront obstacles and make important choices\, paving the way for success.
-DTSTART:20390925T045236Z
-SUMMARY:🌓 First Quarter Moon ♐
-UID:7e69251a-951a-4045-b5c0-64af94bf4afe@7e69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The First Quarter Moon occurs when half the Moon is illuminated\, and the other half remains dark.\nThis phase is a time of action\, decisions\, and challenges as you work toward your goals.\nCultural Significance: Represents a period of growth and progress in many traditions.\nAstrological Significance: A time to confront obstacles and make important choices\, paving the way for success.
+DESCRIPTION:The 🌓 1st Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
 DTSTART:20390303T021506Z
-SUMMARY:🌓 First Quarter Moon ♉
-UID:b0b0bcd3-53a1-481c-8fd1-2760abf57433@b0b0.org
+SUMMARY:🌓 1st Quarter Moon ♉ [🜃]
+UID:bc66dd15-91a8-4d40-b942-15dc74bf94a3@bc66.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The First Quarter Moon occurs when half the Moon is illuminated\, and the other half remains dark.\nThis phase is a time of action\, decisions\, and challenges as you work toward your goals.\nCultural Significance: Represents a period of growth and progress in many traditions.\nAstrological Significance: A time to confront obstacles and make important choices\, paving the way for success.
-DTSTART:20390401T215444Z
-SUMMARY:🌓 First Quarter Moon ♊
-UID:08acba2e-a843-410e-b1a2-e7ee29858aaf@08ac.org
+DESCRIPTION:The 🌗 3rd Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
+DTSTART:20390117T184144Z
+SUMMARY:🌗 3rd Quarter Moon ♎ <🜁>
+UID:da83ff4b-8b64-4e9d-92ab-2273dc7f7622@da83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The New Moon marks the beginning of the lunar cycle. The Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\nCultural Significance: A time for setting intentions and new beginnings.\nAstrological Significance: Represents a fresh start\, reflection\, and inward focus.
+DTSTART:20390523T013804Z
+SUMMARY:🌑 New Moon ♉ [🜃]
+UID:ad6dc90a-f70b-4550-94cf-cf0472a7bc5a@ad6d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The New Moon marks the beginning of the lunar cycle. The Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\nCultural Significance: A time for setting intentions and new beginnings.\nAstrological Significance: Represents a fresh start\, reflection\, and inward focus.
 DTSTART:20390621T172129Z
-SUMMARY:🌑 New Moon ♊
-UID:5c9ac8f3-2f72-40ef-9c56-0d14c852436d@5c9a.org
+SUMMARY:🌑 New Moon ♊ (🜁)
+UID:0a5a6481-ede4-44bc-aac1-72856d28f12a@0a5a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Snow Moon' for the month of February.\nCultural Significance: Reflects the heavy snowfalls typically experienced in February.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Cancer ♋.\nAstrological Significance: Emotional\, nurturing\, and protective.\n
-DTSTART:20390209T033917Z
-SUMMARY:🌕 Full Moon (Snow Moon) ♋
-UID:2d2db293-e59a-44e7-b241-f569ce55b00a@2d2d.org
+DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Buck' for the month of July.\nCultural Significance: No cultural significance available.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Sagittarius ♐ (🜂).\nAstrological Significance: Adventurous\, philosophical\, and optimistic.\n
+DTSTART:20390706T020332Z
+SUMMARY:🌕 Full Moon (Buck) ♐ (🜂)
+UID:2d787c4f-531c-4afa-ae72-464fe9004399@2d78.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Wolf Moon' for the month of January.\nCultural Significance: Often associated with howling wolves during the cold winter months.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Gemini ♊.\nAstrological Significance: Curious\, communicative\, and versatile.\n
-DTSTART:20390110T114534Z
-SUMMARY:🌕 Full Moon (Wolf Moon) ♊
-UID:aa49652c-e613-49c8-bb52-23a4246f436e@aa49.org
+DESCRIPTION:The 🌗 3rd Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
+DTSTART:20391010T085932Z
+SUMMARY:🌗 3rd Quarter Moon ♊ (🜁)
+UID:d584e4e4-0eef-4d46-a3cd-2c161a6db7d0@d584.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Strawberry Moon' for the month of June.\nCultural Significance: Named for the strawberry harvest season.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Scorpio ♏.\nAstrological Significance: Intense\, transformative\, and magnetic.\n
+DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Hunter's' for the month of October.\nCultural Significance: No cultural significance available.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Aries ♈ <🜂>.\nAstrological Significance: Fiery\, passionate\, and driven.\n
+DTSTART:20391031T223619Z
+SUMMARY:🌕 Full Moon (Hunter's) ♈ <🜂>
+UID:49ff559a-a3f6-4879-923b-7c3e59d97a7c@49ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The 🌓 1st Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
+DTSTART:20390728T174946Z
+SUMMARY:🌓 1st Quarter Moon ♎ <🜁>
+UID:bf156107-0a38-497c-9f4e-b6243dc34e25@bf15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The 🌗 3rd Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
+DTSTART:20390713T033819Z
+SUMMARY:🌗 3rd Quarter Moon ♓ (🜄)
+UID:64e2a787-4a89-4d3e-b279-4d3735f3c8b0@64e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Flower' for the month of May.\nCultural Significance: No cultural significance available.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Libra ♎ <🜁>.\nAstrological Significance: Charming\, harmonious\, and diplomatic.\n
+DTSTART:20390508T112003Z
+SUMMARY:🌕 Full Moon (Flower) ♎ <🜁>
+UID:e39a5b25-cdcb-4839-8b61-c75476162472@e39a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The New Moon marks the beginning of the lunar cycle. The Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\nCultural Significance: A time for setting intentions and new beginnings.\nAstrological Significance: Represents a fresh start\, reflection\, and inward focus.
+DTSTART:20390223T031734Z
+SUMMARY:🌑 New Moon ♒ [🜁]
+UID:281b5a07-ccb5-4131-bba7-2b121452b9cd@281b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The 🌓 1st Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
+DTSTART:20391122T211643Z
+SUMMARY:🌓 1st Quarter Moon ♒ [🜁]
+UID:6f236d8c-1f2f-4825-b9f9-43448c434c7a@6f23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The 🌓 1st Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
+DTSTART:20390501T140725Z
+SUMMARY:🌓 1st Quarter Moon ♋ <🜄>
+UID:9f39fccf-58f4-411b-89aa-2dc82b8e7ff9@9f39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The New Moon marks the beginning of the lunar cycle. The Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\nCultural Significance: A time for setting intentions and new beginnings.\nAstrological Significance: Represents a fresh start\, reflection\, and inward focus.
+DTSTART:20390423T093448Z
+SUMMARY:🌑 New Moon ♈ <🜂>
+UID:1a48a1ec-86ec-47f3-b624-87d040c38fc2@1a48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Worm' for the month of March.\nCultural Significance: No cultural significance available.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Leo ♌ [🜂].\nAstrological Significance: Confident\, creative\, and bold.\n
+DTSTART:20390310T163502Z
+SUMMARY:🌕 Full Moon (Worm) ♌ [🜂]
+UID:b7d68483-9ab6-4c68-abc7-76bb6753f7aa@b7d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Strawberry' for the month of June.\nCultural Significance: No cultural significance available.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Scorpio ♏ [🜄].\nAstrological Significance: Intense\, transformative\, and magnetic.\n
 DTSTART:20390606T184744Z
-SUMMARY:🌕 Full Moon (Strawberry Moon) ♏
-UID:bcd95e68-1774-44bb-bfe0-2a1d9eefa2c3@bcd9.org
+SUMMARY:🌕 Full Moon (Strawberry) ♏ [🜄]
+UID:e41b7a71-1eac-40e0-9cef-3152e21ac8c7@e41b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The First Quarter Moon occurs when half the Moon is illuminated\, and the other half remains dark.\nThis phase is a time of action\, decisions\, and challenges as you work toward your goals.\nCultural Significance: Represents a period of growth and progress in many traditions.\nAstrological Significance: A time to confront obstacles and make important choices\, paving the way for success.
-DTSTART:20391222T100142Z
-SUMMARY:🌓 First Quarter Moon ♓
-UID:e3e69116-e4b1-41da-afb3-6d886dca4e0f@e3e6.org
+DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Snow' for the month of February.\nCultural Significance: No cultural significance available.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Cancer ♋ <🜄>.\nAstrological Significance: Emotional\, nurturing\, and protective.\n
+DTSTART:20390209T033917Z
+SUMMARY:🌕 Full Moon (Snow) ♋ <🜄>
+UID:256af643-cd23-44af-b8c8-d1830f53be84@256a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The Third Quarter Moon occurs when half the Moon is illuminated as it wanes toward the New Moon.\nThis phase symbolizes release\, reflection\, and preparation for the next cycle.\nCultural Significance: Often associated with closure and letting go of what no longer serves you.\nAstrological Significance: A period of introspection\, evaluation\, and setting the stage for new beginnings.
-DTSTART:20390216T023603Z
-SUMMARY:🌗 Third Quarter Moon ♏
-UID:3a3803a6-b144-4ceb-9b9b-8dbe350f0683@3a38.org
+DESCRIPTION:The New Moon marks the beginning of the lunar cycle. The Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\nCultural Significance: A time for setting intentions and new beginnings.\nAstrological Significance: Represents a fresh start\, reflection\, and inward focus.
+DTSTART:20390819T205035Z
+SUMMARY:🌑 New Moon ♋ <🜄>
+UID:d891657d-b7c4-461e-8692-5c991b028278@d891.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The First Quarter Moon occurs when half the Moon is illuminated\, and the other half remains dark.\nThis phase is a time of action\, decisions\, and challenges as you work toward your goals.\nCultural Significance: Represents a period of growth and progress in many traditions.\nAstrological Significance: A time to confront obstacles and make important choices\, paving the way for success.
+DESCRIPTION:The 🌓 1st Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
 DTSTART:20390102T073657Z
-SUMMARY:🌓 First Quarter Moon ♓
-UID:6a428431-5198-4f76-a901-d630bc8026d9@6a42.org
+SUMMARY:🌓 1st Quarter Moon ♓ (🜄)
+UID:7a29ca3e-dae9-451f-876e-1c983fe56fbe@7a29.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The First Quarter Moon occurs when half the Moon is illuminated\, and the other half remains dark.\nThis phase is a time of action\, decisions\, and challenges as you work toward your goals.\nCultural Significance: Represents a period of growth and progress in many traditions.\nAstrological Significance: A time to confront obstacles and make important choices\, paving the way for success.
-DTSTART:20390531T022431Z
-SUMMARY:🌓 First Quarter Moon ♌
-UID:33fe0ec1-f9ae-4684-b20f-5f9b67d14851@33fe.org
+DESCRIPTION:The New Moon marks the beginning of the lunar cycle. The Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\nCultural Significance: A time for setting intentions and new beginnings.\nAstrological Significance: Represents a fresh start\, reflection\, and inward focus.
+DTSTART:20391116T054608Z
+SUMMARY:🌑 New Moon ♎ <🜁>
+UID:26151f5c-2bed-42f6-a4f4-25fcbb5b1fb7@2615.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The Third Quarter Moon occurs when half the Moon is illuminated as it wanes toward the New Moon.\nThis phase symbolizes release\, reflection\, and preparation for the next cycle.\nCultural Significance: Often associated with closure and letting go of what no longer serves you.\nAstrological Significance: A period of introspection\, evaluation\, and setting the stage for new beginnings.
+DESCRIPTION:The 🌗 3rd Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
 DTSTART:20390317T100743Z
-SUMMARY:🌗 Third Quarter Moon ♏
-UID:9c167d6c-9f60-47de-86e2-a31ed9f7bafc@9c16.org
+SUMMARY:🌗 3rd Quarter Moon ♏ [🜄]
+UID:57729d79-561e-4871-be47-67431aa68699@5772.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The New Moon marks the beginning of the lunar cycle. The Moon is positioned between the Earth and the Sun\, making it invisible from Earth.\nCultural Significance: A time for setting intentions and new beginnings.\nAstrological Significance: Represents a fresh start\, reflection\, and inward focus.
+DTSTART:20390918T082304Z
+SUMMARY:🌑 New Moon ♌ [🜂]
+UID:a6518100-7ced-484c-831d-f863abc14e64@a651.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Pink' for the month of April.\nCultural Significance: No cultural significance available.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Virgo ♍ (🜃).\nAstrological Significance: Detail-oriented\, analytical\, and helpful.\n
+DTSTART:20390409T025249Z
+SUMMARY:🌕 Full Moon (Pink) ♍ (🜃)
+UID:dd90023f-ef49-436e-b1b1-70c1a8c6114d@dd90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The 🌗 3rd Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
+DTSTART:20390910T134541Z
+SUMMARY:🌗 3rd Quarter Moon ♉ [🜃]
+UID:54dc3969-7021-42de-af5f-a0e64b39c265@54dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Cold' for the month of December.\nCultural Significance: No cultural significance available.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Gemini ♊ (🜁).\nAstrological Significance: Curious\, communicative\, and versatile.\n
+DTSTART:20391230T123747Z
+SUMMARY:🌕 Full Moon (Cold) ♊ (🜁)
+UID:68e20e8c-b6e0-49b6-8bc8-79a6ee8126f5@68e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The 🌗 3rd Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
+DTSTART:20390811T193601Z
+SUMMARY:🌗 3rd Quarter Moon ♈ <🜂>
+UID:c748682c-7103-423c-8ae8-8797c4f36a91@c748.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The 🌗 3rd Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
+DTSTART:20390613T141632Z
+SUMMARY:🌗 3rd Quarter Moon ♒ [🜁]
+UID:df916fb6-c3e2-4495-b37f-768a222fb2c6@df91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The 🌗 3rd Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
+DTSTART:20391109T034607Z
+SUMMARY:🌗 3rd Quarter Moon ♋ <🜄>
+UID:1764ffc9-e1d6-4b3f-92a0-518a645adddd@1764.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The 🌓 1st Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
+DTSTART:20390629T111721Z
+SUMMARY:🌓 1st Quarter Moon ♍ (🜃)
+UID:1263b81e-fba9-4988-a763-3e1a5ca2593a@1263.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The 🌗 3rd Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
+DTSTART:20391208T204437Z
+SUMMARY:🌗 3rd Quarter Moon ♌ [🜂]
+UID:63e50cdc-eabf-49dc-bf10-3268c684e8b3@63e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The 🌓 1st Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
+DTSTART:20390826T231627Z
+SUMMARY:🌓 1st Quarter Moon ♏ [🜄]
+UID:e8790bcc-98c3-43ad-97d4-7db09ba8aeb6@e879.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The 🌓 1st Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
+DTSTART:20391024T115036Z
+SUMMARY:🌓 1st Quarter Moon ♑ <🜃>
+UID:be652ce3-84e7-4c66-ba18-535090269f77@be65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The 🌓 1st Quarter Moon occurs as part of the lunar cycle. It represents a transition toward the next phase of the Moon.
+DTSTART:20390531T022431Z
+SUMMARY:🌓 1st Quarter Moon ♌ [🜂]
+UID:39cc24c9-1627-4bb6-bd09-1442345c9009@39cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Sturgeon' for the month of August.\nCultural Significance: No cultural significance available.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Capricorn ♑ <🜃>.\nAstrological Significance: Disciplined\, ambitious\, and practical.\n
+DTSTART:20390804T095642Z
+SUMMARY:🌕 Full Moon (Sturgeon) ♑ <🜃>
+UID:274ff703-0bf5-47b0-8041-5e932ff11b78@274f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Full Moon occurs when the Moon is fully illuminated by the Sun\, marking the midpoint of the lunar cycle.\nThis Full Moon is traditionally called the 'Harvest' for the month of September.\nCultural Significance: No cultural significance available.\nAstrological Significance: A time of heightened emotions\, clarity\, and reflection.Astrological Position: The Moon is in Aquarius ♒ [🜁].\nAstrological Significance: Innovative\, independent\, and humanitarian.\n
+DTSTART:20390902T192336Z
+SUMMARY:🌕 Full Moon (Harvest) ♒ [🜁]
+UID:6ba96d93-fc03-4517-b97d-fd7be488cb39@6ba9.org
 END:VEVENT
 END:VCALENDAR

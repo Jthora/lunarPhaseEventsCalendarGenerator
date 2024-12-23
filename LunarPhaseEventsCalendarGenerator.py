@@ -18,25 +18,25 @@ logging.basicConfig(filename=LOG_FILE, level=logging.ERROR, format='%(asctime)s 
 # Moon phases and emojis
 MOON_PHASES = {
     0: "🌑 New Moon",
-    1: "🌓 First Quarter Moon",
+    1: "🌓 1st Quarter Moon",
     2: "🌕 Full Moon",
-    3: "🌗 Third Quarter Moon"
+    3: "🌗 3rd Quarter Moon"
 }
 
 # Cultural moon names for Full Moons
 CULTURAL_MOON_NAMES = {
-    1: "Wolf Moon",
-    2: "Snow Moon",
-    3: "Worm Moon",
-    4: "Pink Moon",
-    5: "Flower Moon",
-    6: "Strawberry Moon",
-    7: "Buck Moon",
-    8: "Sturgeon Moon",
-    9: "Harvest Moon",
-    10: "Hunter's Moon",
-    11: "Beaver Moon",
-    12: "Cold Moon"
+    1: "Wolf",
+    2: "Snow",
+    3: "Worm",
+    4: "Pink",
+    5: "Flower",
+    6: "Strawberry",
+    7: "Buck",
+    8: "Sturgeon",
+    9: "Harvest",
+    10: "Hunter's",
+    11: "Beaver",
+    12: "Cold"
 }
 
 # Cultural significance for Full Moons
@@ -57,18 +57,18 @@ CULTURAL_SIGNIFICANCES = {
 
 # Zodiac signs, emoji, and descriptions
 ZODIAC_SIGNS = [
-    ("Aries", "♈", "Fiery, passionate, and driven."),
-    ("Taurus", "♉", "Grounded, practical, and loyal."),
-    ("Gemini", "♊", "Curious, communicative, and versatile."),
-    ("Cancer", "♋", "Emotional, nurturing, and protective."),
-    ("Leo", "♌", "Confident, creative, and bold."),
-    ("Virgo", "♍", "Detail-oriented, analytical, and helpful."),
-    ("Libra", "♎", "Charming, harmonious, and diplomatic."),
-    ("Scorpio", "♏", "Intense, transformative, and magnetic."),
-    ("Sagittarius", "♐", "Adventurous, philosophical, and optimistic."),
-    ("Capricorn", "♑", "Disciplined, ambitious, and practical."),
-    ("Aquarius", "♒", "Innovative, independent, and humanitarian."),
-    ("Pisces", "♓", "Dreamy, intuitive, and compassionate.")
+    ("Aries", "♈ <🜂>", "Fiery, passionate, and driven."),
+    ("Taurus", "♉ [🜃]", "Grounded, practical, and loyal."),
+    ("Gemini", "♊ (🜁)", "Curious, communicative, and versatile."),
+    ("Cancer", "♋ <🜄>", "Emotional, nurturing, and protective."),
+    ("Leo", "♌ [🜂]", "Confident, creative, and bold."),
+    ("Virgo", "♍ (🜃)", "Detail-oriented, analytical, and helpful."),
+    ("Libra", "♎ <🜁>", "Charming, harmonious, and diplomatic."),
+    ("Scorpio", "♏ [🜄]", "Intense, transformative, and magnetic."),
+    ("Sagittarius", "♐ (🜂)", "Adventurous, philosophical, and optimistic."),
+    ("Capricorn", "♑ <🜃>", "Disciplined, ambitious, and practical."),
+    ("Aquarius", "♒ [🜁]", "Innovative, independent, and humanitarian."),
+    ("Pisces", "♓ (🜄)", "Dreamy, intuitive, and compassionate.")
 ]
 
 # Constants
